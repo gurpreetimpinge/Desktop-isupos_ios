@@ -1,0 +1,9 @@
+FRAMEWORK_SEARCH_PATHS = $(inherited) "$(PODS_ROOT)/SplunkMint/" "${PODS_ROOT}/SplunkMint" "${PODS_ROOT}/payworks"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(SDKROOT)/usr/include/libz $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/AFNetworking" "${PODS_ROOT}/Headers/Public/CocoaLumberjack" "${PODS_ROOT}/Headers/Public/SplunkMint" "${PODS_ROOT}/Headers/Public/payworks"
+LIBRARY_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/AFNetworking" "$PODS_CONFIGURATION_BUILD_DIR/CocoaLumberjack"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/AFNetworking" -isystem "${PODS_ROOT}/Headers/Public/CocoaLumberjack" -isystem "${PODS_ROOT}/Headers/Public/SplunkMint" -isystem "${PODS_ROOT}/Headers/Public/payworks"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"AFNetworking" -l"CocoaLumberjack" -l"icucore" -l"stdc++.6" -l"z" -framework "AVFoundation" -framework "AudioToolbox" -framework "CoreGraphics" -framework "CoreMedia" -framework "CoreTelephony" -framework "ExternalAccessory" -framework "MediaPlayer" -framework "MediaToolbox" -framework "MobileCoreServices" -framework "Security" -framework "SplunkMint" -framework "SystemConfiguration" -framework "WebKit" -framework "mpos.accessories.miura-shuttle" -framework "mpos.accessories.sewoo" -framework "mpos.accessories.verifone-e105" -framework "mpos.comlinks.externalaccessory" -framework "mpos.comlinks.tcp" -framework "mpos.comlinks.verifone" -framework "mpos.core"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}/Pods

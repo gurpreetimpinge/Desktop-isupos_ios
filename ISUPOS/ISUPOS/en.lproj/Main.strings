@@ -1,0 +1,1014 @@
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "0Ab-8V-Ive"; */
+"0Ab-8V-Ive.normalTitle" = "Delete";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "0UP-C8-img"; */
+"0UP-C8-img.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "View Original Payment"; ObjectID = "0iS-ot-SAC"; */
+"0iS-ot-SAC.normalTitle" = "View Original Payment";
+
+/* Class = "IBUIButton"; normalTitle = "¥"; ObjectID = "15L-IL-svs"; */
+"15L-IL-svs.normalTitle" = "¥";
+
+/* Class = "IBUIButton"; normalTitle = "Split ongoing receipt"; ObjectID = "1bI-ni-50L"; */
+"1bI-ni-50L.normalTitle" = "Split ongoing receipt";
+
+/* Class = "IBUILabel"; text = "4"; ObjectID = "23a-DH-CIH"; */
+"23a-DH-CIH.text" = "4";
+
+/* Class = "IBUIButton"; normalTitle = "€"; ObjectID = "2Hb-wv-P3H"; */
+"2Hb-wv-P3H.normalTitle" = "€";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "2Le-VM-fO1"; */
+"2Le-VM-fO1.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2aS-jC-hSH"; */
+"2aS-jC-hSH.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "2b1-GC-dIc"; */
+"2b1-GC-dIc.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Help & Support"; ObjectID = "2f9-1h-8uD"; */
+"2f9-1h-8uD.text" = "Help & Support";
+
+/* Class = "IBUILabel"; text = "0 Cash payments"; ObjectID = "2kX-uJ-0qS"; */
+"2kX-uJ-0qS.text" = "0 Cash payments";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "2w4-B4-lSf"; */
+"2w4-B4-lSf.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Vat"; ObjectID = "2yf-ok-vLx"; */
+"2yf-ok-vLx.text" = "Vat";
+
+/* Class = "IBUILabel"; text = "Number"; ObjectID = "3HP-mV-XRq"; */
+"3HP-mV-XRq.text" = "Number";
+
+/* Class = "IBUILabel"; text = "Thank you view"; ObjectID = "40D-0t-nhD"; */
+"40D-0t-nhD.text" = "Thank you view";
+
+/* Class = "IBUILabel"; text = "VAT"; ObjectID = "420-6W-XZR"; */
+"420-6W-XZR.text" = "VAT";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "43z-6v-UQB"; */
+"43z-6v-UQB.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "47d-Xp-4yt"; */
+"47d-Xp-4yt.normalTitle" = "OK";
+
+/* Class = "IBUIButton"; normalTitle = "EN"; ObjectID = "48R-HE-vrX"; */
+"48R-HE-vrX.normalTitle" = "EN";
+
+/* Class = "IBUIButton"; normalTitle = "Remove"; ObjectID = "4G4-bF-LvP"; */
+"4G4-bF-LvP.normalTitle" = "Remove";
+
+/* Class = "IBUILabel"; text = "2%"; ObjectID = "4SC-h3-atG"; */
+"4SC-h3-atG.text" = "2%";
+
+/* Class = "IBUILabel"; text = "VAT"; ObjectID = "4SX-fr-4f2"; */
+"4SX-fr-4f2.text" = "VAT";
+
+/* Class = "IBUINavigationItem"; title = "Park Receipts"; ObjectID = "4ix-3B-W7w"; */
+"4ix-3B-W7w.title" = "Park Receipts";
+
+/* Class = "IBUILabel"; text = "€ 23.33/gram"; ObjectID = "5EC-4t-bXB"; */
+"5EC-4t-bXB.text" = "€ 23.33/gram";
+
+/* Class = "IBUILabel"; text = "EAD9911"; ObjectID = "5LY-Lk-0Hl"; */
+"5LY-Lk-0Hl.text" = "EAD9911";
+
+/* Class = "IBUITextField"; placeholder = "0.00 %"; ObjectID = "5Qc-gk-tmz"; */
+"5Qc-gk-tmz.placeholder" = "0.00 %";
+
+/* Class = "IBUILabel"; text = "20"; ObjectID = "5ZJ-Xb-xcX"; */
+"5ZJ-Xb-xcX.text" = "20";
+
+/* Class = "IBUIButton"; normalTitle = "Refund"; ObjectID = "5iU-kd-tLQ"; */
+"5iU-kd-tLQ.normalTitle" = "Refund";
+
+/* Class = "IBUIButton"; normalTitle = "By Name"; ObjectID = "5wo-9o-S1O"; */
+"5wo-9o-S1O.normalTitle" = "By Name";
+
+/* Class = "IBUILabel"; text = "Park Time"; ObjectID = "63a-Rm-H2v"; */
+"63a-Rm-H2v.text" = "Park Time";
+
+/* Class = "IBUIButton"; normalTitle = "€"; ObjectID = "6el-vV-VWw"; */
+"6el-vV-VWw.normalTitle" = "€";
+
+/* Class = "IBUILabel"; text = "Action"; ObjectID = "6ho-x6-jdH"; */
+"6ho-x6-jdH.text" = "Action";
+
+/* Class = "IBUILabel"; text = "Receipt Text"; ObjectID = "6nG-OK-5Mg"; */
+"6nG-OK-5Mg.text" = "Receipt Text";
+
+/* Class = "IBUILabel"; text = "18-March-2015, 7:05 am(GMT)"; ObjectID = "7G8-C2-YRo"; */
+"7G8-C2-YRo.text" = "18-March-2015, 7:05 am(GMT)";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "7TW-Vr-smm"; */
+"7TW-Vr-smm.normalTitle" = "Delete";
+
+/* Class = "IBUILabel"; text = "Printer"; ObjectID = "7b3-dC-KE6"; */
+"7b3-dC-KE6.text" = "Printer";
+
+/* Class = "IBUITextField"; placeholder = "Article Number"; ObjectID = "7cz-FV-U7I"; */
+"7cz-FV-U7I.placeholder" = "Article Number";
+
+/* Class = "IBUIButton"; normalTitle = "Add Article"; ObjectID = "7jR-zc-dRu"; */
+"7jR-zc-dRu.normalTitle" = "Add Article";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "7mM-dX-gia"; */
+"7mM-dX-gia.normalTitle" = "Cancel";
+
+/* Class = "IBUITextField"; placeholder = "Variant Title"; ObjectID = "89w-KW-02y"; */
+"89w-KW-02y.placeholder" = "Variant Title";
+
+/* Class = "IBUIButton"; normalTitle = "Print ongoing receipt as tab"; ObjectID = "8bv-Hf-HAH"; */
+"8bv-Hf-HAH.normalTitle" = "Print ongoing receipt as tab";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "8dE-qj-3v1"; */
+"8dE-qj-3v1.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Always auto dismiss thank you view"; ObjectID = "9T9-Z8-Gva"; */
+"9T9-Z8-Gva.text" = "Always auto dismiss thank you view";
+
+/* Class = "IBUIButton"; normalTitle = "View on map"; ObjectID = "9YS-dk-3Az"; */
+"9YS-dk-3Az.normalTitle" = "View on map";
+
+/* Class = "IBUILabel"; text = "Thank You"; ObjectID = "9dm-fk-5m9"; */
+"9dm-fk-5m9.text" = "Thank You";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "9rd-iN-ft4"; */
+"9rd-iN-ft4.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Printer Options"; ObjectID = "9zb-jD-sra"; */
+"9zb-jD-sra.text" = "Printer Options";
+
+/* Class = "IBUITextField"; placeholder = "Enter Email"; ObjectID = "ABg-ic-rOS"; */
+"ABg-ic-rOS.placeholder" = "Enter Email";
+
+/* Class = "IBUILabel"; text = "Chocolate Troffila"; ObjectID = "AHy-Bj-XWX"; */
+"AHy-Bj-XWX.text" = "Chocolate Troffila";
+
+/* Class = "IBUILabel"; text = "0 Refund"; ObjectID = "ANz-R2-M4G"; */
+"ANz-R2-M4G.text" = "0 Refund";
+
+/* Class = "IBUILabel"; text = "Chocolate Troffila"; ObjectID = "AaF-mG-wxp"; */
+"AaF-mG-wxp.text" = "Chocolate Troffila";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "ApZ-nl-zwH"; */
+"ApZ-nl-zwH.text" = "Name";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "Avp-6A-8K5"; */
+"Avp-6A-8K5.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "BAY-dy-EqV"; */
+"BAY-dy-EqV.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "Row 3"; ObjectID = "BR2-Hl-tuz"; */
+"BR2-Hl-tuz.text" = "Row 3";
+
+/* Class = "IBUIButton"; normalTitle = "Choose From Library"; ObjectID = "BVE-Lb-vNf"; */
+"BVE-Lb-vNf.normalTitle" = "Choose From Library";
+
+/* Class = "IBUILabel"; text = "€ 2,2548.22"; ObjectID = "Bju-Fi-OoM"; */
+"Bju-Fi-OoM.text" = "€ 2,2548.22";
+
+/* Class = "IBUILabel"; text = "Chocolate"; ObjectID = "BrP-Ou-7Un"; */
+"BrP-Ou-7Un.text" = "Chocolate";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "CN2-RW-FgE"; */
+"CN2-RW-FgE.text" = "2";
+
+/* Class = "IBUIButton"; normalTitle = "Submit"; ObjectID = "CO8-6f-9Sw"; */
+"CO8-6f-9Sw.normalTitle" = "Submit";
+
+/* Class = "IBUILabel"; text = "Fax"; ObjectID = "Ce3-Eb-lXH"; */
+"Ce3-Eb-lXH.text" = "Fax";
+
+/* Class = "IBUILabel"; text = "Quick Blocks"; ObjectID = "Cs4-6w-CXd"; */
+"Cs4-6w-CXd.text" = "Quick Blocks";
+
+/* Class = "IBUIButton"; normalTitle = "By Name"; ObjectID = "D0t-tO-bLx"; */
+"D0t-tO-bLx.normalTitle" = "By Name";
+
+/* Class = "IBUILabel"; text = " € 0.00"; ObjectID = "DNp-Bu-rqY"; */
+"DNp-Bu-rqY.text" = " € 0.00";
+
+/* Class = "IBUIButton"; normalTitle = "Cash"; ObjectID = "DX1-ja-7Ql"; */
+"DX1-ja-7Ql.normalTitle" = "Cash";
+
+/* Class = "IBUILabel"; text = "Row 5"; ObjectID = "DZ7-5z-wca"; */
+"DZ7-5z-wca.text" = "Row 5";
+
+/* Class = "IBUILabel"; text = "€ "; ObjectID = "Doy-qD-Dz4"; */
+"Doy-qD-Dz4.text" = "€ ";
+
+/* Class = "IBUIButton"; normalTitle = "By Description"; ObjectID = "Ds7-ds-nHi"; */
+"Ds7-ds-nHi.normalTitle" = "By Description";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "Dt8-22-Z2c"; */
+"Dt8-22-Z2c.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "Submit"; ObjectID = "EAD-Kv-CR9"; */
+"EAD-Kv-CR9.normalTitle" = "Submit";
+
+/* Class = "IBUILabel"; text = "New Product"; ObjectID = "EBx-F6-Bv9"; */
+"EBx-F6-Bv9.text" = "New Product";
+
+/* Class = "IBUILabel"; text = "Auto fill amount"; ObjectID = "EYj-oN-qFr"; */
+"EYj-oN-qFr.text" = "Auto fill amount";
+
+/* Class = "IBUITextField"; placeholder = "Find transaction"; ObjectID = "ElF-iM-hoj"; */
+"ElF-iM-hoj.placeholder" = "Find transaction";
+
+/* Class = "IBUILabel"; text = "Barcode"; ObjectID = "F5a-su-Heo"; */
+"F5a-su-Heo.text" = "Barcode";
+
+/* Class = "IBUILabel"; text = "Payments"; ObjectID = "FWK-aS-A10"; */
+"FWK-aS-A10.text" = "Payments";
+
+/* Class = "IBUILabel"; text = "000000.00"; ObjectID = "FdL-Aj-Acq"; */
+"FdL-Aj-Acq.text" = "000000.00";
+
+/* Class = "IBUITextField"; placeholder = "Enter Vat "; ObjectID = "FgJ-Ud-iiR"; */
+"FgJ-Ud-iiR.placeholder" = "Enter Vat ";
+
+/* Class = "IBUILabel"; text = "Receipt"; ObjectID = "Fgj-f3-MXj"; */
+"Fgj-f3-MXj.text" = "Receipt";
+
+/* Class = "IBUILabel"; text = "Sound effects"; ObjectID = "Fhp-MV-gbf"; */
+"Fhp-MV-gbf.text" = "Sound effects";
+
+/* Class = "IBUIButton"; normalTitle = "Clear"; ObjectID = "G5L-bu-UlO"; */
+"G5L-bu-UlO.normalTitle" = "Clear";
+
+/* Class = "IBUILabel"; text = "0.00"; ObjectID = "GWV-gK-eho"; */
+"GWV-gK-eho.text" = "0.00";
+
+/* Class = "IBUIButton"; normalTitle = "Add Item"; ObjectID = "Gzf-wu-RyK"; */
+"Gzf-wu-RyK.normalTitle" = "Add Item";
+
+/* Class = "IBUIButton"; normalTitle = "By Description"; ObjectID = "HAs-85-BzP"; */
+"HAs-85-BzP.normalTitle" = "By Description";
+
+/* Class = "IBUILabel"; text = "No card reader connected"; ObjectID = "HDu-3Q-8KM"; */
+"HDu-3Q-8KM.text" = "No card reader connected";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "Hbd-N6-PwS"; */
+"Hbd-N6-PwS.normalTitle" = "Add";
+
+/* Class = "IBUILabel"; text = "Quick Blocks"; ObjectID = "Hfs-51-03R"; */
+"Hfs-51-03R.text" = "Quick Blocks";
+
+/* Class = "IBUILabel"; text = "Vat Variation"; ObjectID = "Hmd-Ko-5lz"; */
+"Hmd-Ko-5lz.text" = "Vat Variation";
+
+/* Class = "IBUILabel"; text = "Quick Buttons"; ObjectID = "Hv8-Ya-DWT"; */
+"Hv8-Ya-DWT.text" = "Quick Buttons";
+
+/* Class = "IBUILabel"; text = "Discounts"; ObjectID = "Hzf-Zj-TMY"; */
+"Hzf-Zj-TMY.text" = "Discounts";
+
+/* Class = "IBUILabel"; text = "Connect an ISUPOS card reader to accept easy card payments."; ObjectID = "I5w-d3-7MS"; */
+"I5w-d3-7MS.text" = "Connect an ISUPOS card reader to accept easy card payments.";
+
+/* Class = "IBUIButton"; normalTitle = "Clear"; ObjectID = "I9J-O0-vMW"; */
+"I9J-O0-vMW.normalTitle" = "Clear";
+
+/* Class = "IBUILabel"; text = "0.00"; ObjectID = "ITK-PD-WP2"; */
+"ITK-PD-WP2.text" = "0.00";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "IWw-dN-Khi"; */
+"IWw-dN-Khi.normalTitle" = "OK";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "Ie6-Il-6s2"; */
+"Ie6-Il-6s2.placeholder" = "Name";
+
+/* Class = "IBUILabel"; text = "Top Selling Products"; ObjectID = "Irz-y1-0v3"; */
+"Irz-y1-0v3.text" = "Top Selling Products";
+
+/* Class = "IBUILabel"; text = "Vat"; ObjectID = "JpX-M1-MLS"; */
+"JpX-M1-MLS.text" = "Vat";
+
+/* Class = "IBUILabel"; text = "How to get started with ISUPOS"; ObjectID = "K63-rT-pR2"; */
+"K63-rT-pR2.text" = "How to get started with ISUPOS";
+
+/* Class = "IBUILabel"; text = "Quick blocks/Buttons"; ObjectID = "K6Z-xu-Fut"; */
+"K6Z-xu-Fut.text" = "Quick blocks/Buttons";
+
+/* Class = "IBUILabel"; text = "Article"; ObjectID = "KBa-Ev-VUD"; */
+"KBa-Ev-VUD.text" = "Article";
+
+/* Class = "IBUIButton"; normalTitle = "Price per unit"; ObjectID = "KJ2-pC-nqi"; */
+"KJ2-pC-nqi.normalTitle" = "Price per unit";
+
+/* Class = "IBUILabel"; text = "Support Pages"; ObjectID = "KfG-ab-9HI"; */
+"KfG-ab-9HI.text" = "Support Pages";
+
+/* Class = "IBUILabel"; text = "€ "; ObjectID = "Kh0-HW-MO1"; */
+"Kh0-HW-MO1.text" = "€ ";
+
+/* Class = "IBUILabel"; text = "€42.40"; ObjectID = "KlF-JV-8zW"; */
+"KlF-JV-8zW.text" = "€42.40";
+
+/* Class = "IBUIButton"; normalTitle = "Park on going receipt"; ObjectID = "Kvx-tP-wYJ"; */
+"Kvx-tP-wYJ.normalTitle" = "Park on going receipt";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "L48-75-bk0"; */
+"L48-75-bk0.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "0.00"; ObjectID = "LiT-cM-Gh4"; */
+"LiT-cM-Gh4.text" = "0.00";
+
+/* Class = "IBUILabel"; text = "     Company Information"; ObjectID = "LqK-VX-ka3"; */
+"LqK-VX-ka3.text" = "     Company Information";
+
+/* Class = "IBUIButton"; normalTitle = "SE"; ObjectID = "Lwk-tx-g41"; */
+"Lwk-tx-g41.normalTitle" = "SE";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "M6H-iu-l3T"; */
+"M6H-iu-l3T.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "Row 5"; ObjectID = "MvV-F5-iJ1"; */
+"MvV-F5-iJ1.text" = "Row 5";
+
+/* Class = "IBUIButton"; normalTitle = "Visa Payment"; ObjectID = "NHV-jW-Cau"; */
+"NHV-jW-Cau.normalTitle" = "Visa Payment";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "NM6-bQ-ipZ"; */
+"NM6-bQ-ipZ.text" = "1";
+
+/* Class = "IBUITextField"; placeholder = "Title"; ObjectID = "NP1-Y3-sbM"; */
+"NP1-Y3-sbM.placeholder" = "Title";
+
+/* Class = "IBUITextField"; placeholder = "Article Number"; ObjectID = "NVx-vb-u9u"; */
+"NVx-vb-u9u.placeholder" = "Article Number";
+
+/* Class = "IBUILabel"; text = "20"; ObjectID = "NXo-5t-rQF"; */
+"NXo-5t-rQF.text" = "20";
+
+/* Class = "IBUILabel"; text = "Skip"; ObjectID = "Ndm-FZ-0cC"; */
+"Ndm-FZ-0cC.text" = "Skip";
+
+/* Class = "IBUILabel"; text = "%"; ObjectID = "NhO-M8-dgJ"; */
+"NhO-M8-dgJ.text" = "%";
+
+/* Class = "IBUITextField"; placeholder = "Comments"; ObjectID = "NpY-GD-cv3"; */
+"NpY-GD-cv3.placeholder" = "Comments";
+
+/* Class = "IBUILabel"; text = "08-613 70 20 (9:00 – 17:00)"; ObjectID = "O3o-dc-emx"; */
+"O3o-dc-emx.text" = "08-613 70 20 (9:00 – 17:00)";
+
+/* Class = "IBUILabel"; text = "Auto dismiss"; ObjectID = "O9s-IO-NqP"; */
+"O9s-IO-NqP.text" = "Auto dismiss";
+
+/* Class = "IBUILabel"; text = "support@isupos.se"; ObjectID = "Oss-C7-8xy"; */
+"Oss-C7-8xy.text" = "support@isupos.se";
+
+/* Class = "IBUILabel"; text = "Article Number"; ObjectID = "OtZ-PE-tzC"; */
+"OtZ-PE-tzC.text" = "Article Number";
+
+/* Class = "IBUILabel"; text = "Including € 0.00 VAT"; ObjectID = "PBC-g4-aoa"; */
+"PBC-g4-aoa.text" = "Including € 0.00 VAT";
+
+/* Class = "IBUILabel"; text = "Price"; ObjectID = "PTL-s2-E96"; */
+"PTL-s2-E96.text" = "Price";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "PZZ-u7-xcN"; */
+"PZZ-u7-xcN.placeholder" = "Name";
+
+/* Class = "IBUILabel"; text = "Total"; ObjectID = "Prw-Kw-irU"; */
+"Prw-Kw-irU.text" = "Total";
+
+/* Class = "IBUILabel"; text = "€ 0.00"; ObjectID = "Pxq-hv-W7B"; */
+"Pxq-hv-W7B.text" = "€ 0.00";
+
+/* Class = "IBUILabel"; text = "Row 1"; ObjectID = "Q0s-F5-erO"; */
+"Q0s-F5-erO.text" = "Row 1";
+
+/* Class = "IBUITextField"; text = "Chocolate"; ObjectID = "Q9o-Q9-6YM"; */
+"Q9o-Q9-6YM.text" = "Chocolate";
+
+/* Class = "IBUILabel"; text = "€"; ObjectID = "QAT-4d-qmu"; */
+"QAT-4d-qmu.text" = "€";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "QBE-9j-rgr"; */
+"QBE-9j-rgr.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "Save"; ObjectID = "QCZ-zZ-8f2"; */
+"QCZ-zZ-8f2.normalTitle" = "Save";
+
+/* Class = "IBUILabel"; text = "1 Copy"; ObjectID = "QO9-U0-PM3"; */
+"QO9-U0-PM3.text" = "1 Copy";
+
+/* Class = "IBUILabel"; text = "Price"; ObjectID = "QZ9-Lw-9zV"; */
+"QZ9-Lw-9zV.text" = "Price";
+
+/* Class = "IBUILabel"; text = "Including € 0.00 VAT"; ObjectID = "Qvz-7d-ops"; */
+"Qvz-7d-ops.text" = "Including € 0.00 VAT";
+
+/* Class = "IBUILabel"; text = "Zip Code"; ObjectID = "RF5-7A-k7j"; */
+"RF5-7A-k7j.text" = "Zip Code";
+
+/* Class = "IBUILabel"; text = "Amount"; ObjectID = "RLb-8Z-HGu"; */
+"RLb-8Z-HGu.text" = "Amount";
+
+/* Class = "IBUILabel"; text = "+3 MORE"; ObjectID = "RPh-EE-cBn"; */
+"RPh-EE-cBn.text" = "+3 MORE";
+
+/* Class = "IBUIButton"; normalTitle = "By Number"; ObjectID = "RRT-hv-JXB"; */
+"RRT-hv-JXB.normalTitle" = "By Number";
+
+/* Class = "IBUIButton"; normalTitle = "By Description"; ObjectID = "RXO-Yv-pAy"; */
+"RXO-Yv-pAy.normalTitle" = "By Description";
+
+/* Class = "IBUILabel"; text = "Barcode"; ObjectID = "RYc-vx-kzL"; */
+"RYc-vx-kzL.text" = "Barcode";
+
+/* Class = "IBUILabel"; text = "Address 2"; ObjectID = "Rcp-if-ECW"; */
+"Rcp-if-ECW.text" = "Address 2";
+
+/* Class = "IBUILabel"; text = "2014/12/24 22:15"; ObjectID = "Rjl-Hr-2WL"; */
+"Rjl-Hr-2WL.text" = "2014/12/24 22:15";
+
+/* Class = "IBUILabel"; text = "Company Name"; ObjectID = "RlI-fp-Fxh"; */
+"RlI-fp-Fxh.text" = "Company Name";
+
+/* Class = "IBUIButton"; normalTitle = "By Description"; ObjectID = "Rln-li-CSO"; */
+"Rln-li-CSO.normalTitle" = "By Description";
+
+/* Class = "IBUILabel"; text = "City"; ObjectID = "RxU-y8-YNe"; */
+"RxU-y8-YNe.text" = "City";
+
+/* Class = "IBUILabel"; text = "Number"; ObjectID = "SfD-wK-JId"; */
+"SfD-wK-JId.text" = "Number";
+
+/* Class = "IBUILabel"; text = "€ 0.00"; ObjectID = "Sfd-up-NpP"; */
+"Sfd-up-NpP.text" = "€ 0.00";
+
+/* Class = "IBUIButton"; normalTitle = "Take Photo"; ObjectID = "T9M-c7-FVY"; */
+"T9M-c7-FVY.normalTitle" = "Take Photo";
+
+/* Class = "IBUILabel"; text = "Language"; ObjectID = "TQW-Uw-Slk"; */
+"TQW-Uw-Slk.text" = "Language";
+
+/* Class = "IBUILabel"; text = "€ 0.00"; ObjectID = "TR8-bc-Aec"; */
+"TR8-bc-Aec.text" = "€ 0.00";
+
+/* Class = "IBUILabel"; text = "%"; ObjectID = "Tfe-W6-WRX"; */
+"Tfe-W6-WRX.text" = "%";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "ThJ-yr-mkF"; */
+"ThJ-yr-mkF.normalTitle" = "Delete";
+
+/* Class = "IBUITextField"; placeholder = "Price"; ObjectID = "Tj7-Xh-uyo"; */
+"Tj7-Xh-uyo.placeholder" = "Price";
+
+/* Class = "IBUIButton"; normalTitle = "Save"; ObjectID = "Tof-fh-EdD"; */
+"Tof-fh-EdD.normalTitle" = "Save";
+
+/* Class = "IBUILabel"; text = "Discount"; ObjectID = "U87-BV-n32"; */
+"U87-BV-n32.text" = "Discount";
+
+/* Class = "IBUIButton"; normalTitle = "By Number"; ObjectID = "UVr-VH-Oft"; */
+"UVr-VH-Oft.normalTitle" = "By Number";
+
+/* Class = "IBUILabel"; text = "Chocolate"; ObjectID = "Uqq-aq-uuB"; */
+"Uqq-aq-uuB.text" = "Chocolate";
+
+/* Class = "IBUIButton"; normalTitle = "Print"; ObjectID = "V14-J0-PNe"; */
+"V14-J0-PNe.normalTitle" = "Print";
+
+/* Class = "IBUILabel"; text = "Currency"; ObjectID = "V7z-oZ-sVE"; */
+"V7z-oZ-sVE.text" = "Currency";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "V9h-mQ-AWV"; */
+"V9h-mQ-AWV.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "₹"; ObjectID = "VoI-9U-ZF1"; */
+"VoI-9U-ZF1.normalTitle" = "₹";
+
+/* Class = "IBUILabel"; text = "Cash payments"; ObjectID = "Wja-7O-Hbd"; */
+"Wja-7O-Hbd.text" = "Cash payments";
+
+/* Class = "IBUILabel"; text = "Customer 1"; ObjectID = "WtZ-us-rx3"; */
+"WtZ-us-rx3.text" = "Customer 1";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "Wwt-o9-EWz"; */
+"Wwt-o9-EWz.normalTitle" = "OK";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "XE5-0i-u0z"; */
+"XE5-0i-u0z.normalTitle" = "Add";
+
+/* Class = "IBUILabel"; text = "Play sound effects in app"; ObjectID = "XE6-ln-bHt"; */
+"XE6-ln-bHt.text" = "Play sound effects in app";
+
+/* Class = "IBUILabel"; text = "Facebook.com/isupos"; ObjectID = "XKV-aR-cDQ"; */
+"XKV-aR-cDQ.text" = "Facebook.com/isupos";
+
+/* Class = "IBUILabel"; text = "Vat Variants"; ObjectID = "Xhh-v6-fsS"; */
+"Xhh-v6-fsS.text" = "Vat Variants";
+
+/* Class = "IBUIButton"; normalTitle = "By Name"; ObjectID = "Y6L-SI-Itl"; */
+"Y6L-SI-Itl.normalTitle" = "By Name";
+
+/* Class = "IBUILabel"; text = "Phone"; ObjectID = "YFW-5q-qDO"; */
+"YFW-5q-qDO.text" = "Phone";
+
+/* Class = "IBUINavigationItem"; title = "Quick Blocks"; ObjectID = "YKU-OY-CNh"; */
+"YKU-OY-CNh.title" = "Quick Blocks";
+
+/* Class = "IBUITextField"; placeholder = "Select Variant"; ObjectID = "Yc6-EJ-L1F"; */
+"Yc6-EJ-L1F.placeholder" = "Select Variant";
+
+/* Class = "IBUITextField"; placeholder = "Price"; ObjectID = "Yoj-Kr-NeS"; */
+"Yoj-Kr-NeS.placeholder" = "Price";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "ZA3-Pd-L50"; */
+"ZA3-Pd-L50.text" = "Label";
+
+/* Class = "IBUILabel"; text = "%"; ObjectID = "ZEP-vG-e5C"; */
+"ZEP-vG-e5C.text" = "%";
+
+/* Class = "IBUITextField"; placeholder = "0.00"; ObjectID = "ZgV-xt-4Lt"; */
+"ZgV-xt-4Lt.placeholder" = "0.00";
+
+/* Class = "IBUIButton"; normalTitle = "Manual Entry"; ObjectID = "Zy8-Qa-nnp"; */
+"Zy8-Qa-nnp.normalTitle" = "Manual Entry";
+
+/* Class = "IBUITabBarItem"; title = "Item"; ObjectID = "Zzm-bM-VJL"; */
+"Zzm-bM-VJL.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Chocolate Troffila"; ObjectID = "a4h-ag-JUo"; */
+"a4h-ag-JUo.text" = "Chocolate Troffila";
+
+/* Class = "IBUILabel"; text = "Notice"; ObjectID = "aAJ-JK-E9h"; */
+"aAJ-JK-E9h.text" = "Notice";
+
+/* Class = "IBUIButton"; normalTitle = "Refresh Article"; ObjectID = "aAM-I6-BzL"; */
+"aAM-I6-BzL.normalTitle" = "Refresh Article";
+
+/* Class = "IBUITextField"; placeholder = "Description"; ObjectID = "aEF-3i-6Re"; */
+"aEF-3i-6Re.placeholder" = "Description";
+
+/* Class = "IBUILabel"; text = "2%"; ObjectID = "aKC-xf-OWt"; */
+"aKC-xf-OWt.text" = "2%";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "aQw-tM-CHh"; */
+"aQw-tM-CHh.normalTitle" = "Add";
+
+/* Class = "IBUILabel"; text = "Row 4"; ObjectID = "abC-Ts-B6g"; */
+"abC-Ts-B6g.text" = "Row 4";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "anL-im-O2f"; */
+"anL-im-O2f.text" = "0";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "anZ-KU-fhf"; */
+"anZ-KU-fhf.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "EAD9911"; ObjectID = "b4e-2t-FUF"; */
+"b4e-2t-FUF.text" = "EAD9911";
+
+/* Class = "IBUILabel"; text = "€42200"; ObjectID = "b8U-Ih-ruu"; */
+"b8U-Ih-ruu.text" = "€42200";
+
+/* Class = "IBUITextField"; text = "VAT"; ObjectID = "bKm-zf-F44"; */
+"bKm-zf-F44.text" = "VAT";
+
+/* Class = "IBUILabel"; text = "Select Variant"; ObjectID = "bLa-9H-VKf"; */
+"bLa-9H-VKf.text" = "Select Variant";
+
+/* Class = "IBUIButton"; normalTitle = "Choose From Library"; ObjectID = "bRG-SU-wNu"; */
+"bRG-SU-wNu.normalTitle" = "Choose From Library";
+
+/* Class = "IBUITextField"; placeholder = "€ 0.00"; ObjectID = "bRj-7Q-zc9"; */
+"bRj-7Q-zc9.placeholder" = "€ 0.00";
+
+/* Class = "IBUILabel"; text = "Organization Name"; ObjectID = "bgS-3s-Jf8"; */
+"bgS-3s-Jf8.text" = "Organization Name";
+
+/* Class = "IBUILabel"; text = "Add Item"; ObjectID = "bk9-qD-ypj"; */
+"bk9-qD-ypj.text" = "Add Item";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "blr-gl-Dze"; */
+"blr-gl-Dze.text" = "2";
+
+/* Class = "IBUIButton"; normalTitle = "By Number"; ObjectID = "bu7-CQ-g4L"; */
+"bu7-CQ-g4L.normalTitle" = "By Number";
+
+/* Class = "IBUIButton"; normalTitle = "Reset"; ObjectID = "c1q-Ni-1m6"; */
+"c1q-Ni-1m6.normalTitle" = "Reset";
+
+/* Class = "IBUIButton"; normalTitle = "Charge"; ObjectID = "cbx-9e-VON"; */
+"cbx-9e-VON.normalTitle" = "Charge";
+
+/* Class = "IBUILabel"; text = "Amount, receipt no,card last digits"; ObjectID = "cdH-kb-StH"; */
+"cdH-kb-StH.text" = "Amount, receipt no,card last digits";
+
+/* Class = "IBUIButton"; normalTitle = "$"; ObjectID = "clx-Zt-ScH"; */
+"clx-Zt-ScH.normalTitle" = "$";
+
+/* Class = "IBUINavigationItem"; title = "Receipt Data"; ObjectID = "crl-SI-Xum"; */
+"crl-SI-Xum.title" = "Receipt Data";
+
+/* Class = "IBUILabel"; text = "€ 0.00"; ObjectID = "d0h-OW-jeT"; */
+"d0h-OW-jeT.text" = "€ 0.00";
+
+/* Class = "IBUILabel"; text = "Custom Amount"; ObjectID = "dQy-rF-tWd"; */
+"dQy-rF-tWd.text" = "Custom Amount";
+
+/* Class = "IBUITextField"; placeholder = "Find articles"; ObjectID = "eCy-Hm-ALJ"; */
+"eCy-Hm-ALJ.placeholder" = "Find articles";
+
+/* Class = "IBUILabel"; text = "Discount"; ObjectID = "eI7-oP-WWq"; */
+"eI7-oP-WWq.text" = "Discount";
+
+/* Class = "IBUIButton"; normalTitle = "Clear"; ObjectID = "eKm-Ou-T0S"; */
+"eKm-Ou-T0S.normalTitle" = "Clear";
+
+/* Class = "IBUILabel"; text = "0 Card payments"; ObjectID = "eLF-pc-YcK"; */
+"eLF-pc-YcK.text" = "0 Card payments";
+
+/* Class = "IBUILabel"; text = "Searching Printer..."; ObjectID = "eT0-TM-oPc"; */
+"eT0-TM-oPc.text" = "Searching Printer...";
+
+/* Class = "IBUINavigationItem"; title = "Manage Article"; ObjectID = "ebd-0M-gGC"; */
+"ebd-0M-gGC.title" = "Manage Article";
+
+/* Class = "IBUIButton"; normalTitle = "Cash"; ObjectID = "f3M-j2-fj9"; */
+"f3M-j2-fj9.normalTitle" = "Cash";
+
+/* Class = "IBUILabel"; text = "Homepage"; ObjectID = "fKe-fM-e1s"; */
+"fKe-fM-e1s.text" = "Homepage";
+
+/* Class = "IBUITextField"; placeholder = "0"; ObjectID = "fQP-52-oea"; */
+"fQP-52-oea.placeholder" = "0";
+
+/* Class = "IBUITextField"; text = "Vat Variation"; ObjectID = "fQP-52-oea"; */
+"fQP-52-oea.text" = "Vat Variation";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "fgd-yf-6tg"; */
+"fgd-yf-6tg.normalTitle" = "Add";
+
+/* Class = "IBUILabel"; text = "Price"; ObjectID = "fzo-ij-iug"; */
+"fzo-ij-iug.text" = "Price";
+
+/* Class = "IBUILabel"; text = "Amount"; ObjectID = "g3q-CX-lcv"; */
+"g3q-CX-lcv.text" = "Amount";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "g7J-ik-k3N"; */
+"g7J-ik-k3N.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Activate"; ObjectID = "gGu-y3-61W"; */
+"gGu-y3-61W.normalTitle" = "Activate";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "gIl-QE-ja2"; */
+"gIl-QE-ja2.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Row 4"; ObjectID = "gN1-iu-CK1"; */
+"gN1-iu-CK1.text" = "Row 4";
+
+/* Class = "IBUISearchBar"; placeholder = "Search Article"; ObjectID = "gOa-0f-Zf2"; */
+"gOa-0f-Zf2.placeholder" = "Search Article";
+
+/* Class = "IBUILabel"; text = "€ 23.33/gram"; ObjectID = "gVb-e9-guj"; */
+"gVb-e9-guj.text" = "€ 23.33/gram";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "gXo-BL-tNf"; */
+"gXo-BL-tNf.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Row 2"; ObjectID = "gfd-2o-wen"; */
+"gfd-2o-wen.text" = "Row 2";
+
+/* Class = "IBUILabel"; text = "Address 1"; ObjectID = "gi4-7D-yuS"; */
+"gi4-7D-yuS.text" = "Address 1";
+
+/* Class = "IBUILabel"; text = "Total"; ObjectID = "gnH-8c-nN9"; */
+"gnH-8c-nN9.text" = "Total";
+
+/* Class = "IBUITextField"; placeholder = "Enter Email"; ObjectID = "guM-zy-2bC"; */
+"guM-zy-2bC.placeholder" = "Enter Email";
+
+/* Class = "IBUILabel"; text = "0%"; ObjectID = "h5O-7i-3ad"; */
+"h5O-7i-3ad.text" = "0%";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "hCK-ib-708"; */
+"hCK-ib-708.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "VAT"; ObjectID = "hHo-tR-d2p"; */
+"hHo-tR-d2p.text" = "VAT";
+
+/* Class = "IBUILabel"; text = "Skip amount tenderd view"; ObjectID = "hI9-1L-NBC"; */
+"hI9-1L-NBC.text" = "Skip amount tenderd view";
+
+/* Class = "IBUILabel"; text = "€42200"; ObjectID = "hVi-dN-rZa"; */
+"hVi-dN-rZa.text" = "€42200";
+
+/* Class = "IBUILabel"; text = ">   chocolate"; ObjectID = "hcZ-wu-rTb"; */
+"hcZ-wu-rTb.text" = ">   chocolate";
+
+/* Class = "IBUITextField"; placeholder = "Language"; ObjectID = "hdg-ew-hrd"; */
+"hdg-ew-hrd.placeholder" = "Language";
+
+/* Class = "IBUITextField"; text = "EN"; ObjectID = "hdg-ew-hrd"; */
+"hdg-ew-hrd.text" = "EN";
+
+/* Class = "IBUILabel"; text = "2%"; ObjectID = "hel-7T-YMK"; */
+"hel-7T-YMK.text" = "2%";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "hfN-ZY-onX"; */
+"hfN-ZY-onX.text" = "Email";
+
+/* Class = "IBUIButton"; normalTitle = "By Number"; ObjectID = "hjI-sH-YQZ"; */
+"hjI-sH-YQZ.normalTitle" = "By Number";
+
+/* Class = "IBUIButton"; normalTitle = "€"; ObjectID = "iVH-KG-Tzs"; */
+"iVH-KG-Tzs.normalTitle" = "€";
+
+/* Class = "IBUILabel"; text = "Contact Support"; ObjectID = "iZn-wc-aOt"; */
+"iZn-wc-aOt.text" = "Contact Support";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "iq0-lm-YYm"; */
+"iq0-lm-YYm.normalTitle" = "Login";
+
+/* Class = "IBUILabel"; text = "     Tax at the top of Receipt"; ObjectID = "j7v-Cu-a9D"; */
+"j7v-Cu-a9D.text" = "     Tax at the top of Receipt";
+
+/* Class = "IBUISearchBar"; placeholder = "Search Article"; ObjectID = "j9u-jS-paB"; */
+"j9u-jS-paB.placeholder" = "Search Article";
+
+/* Class = "IBUILabel"; text = "Chocolate Truffle"; ObjectID = "jE2-uk-T0o"; */
+"jE2-uk-T0o.text" = "Chocolate Truffle";
+
+/* Class = "IBUIButton"; normalTitle = "Delete"; ObjectID = "jfx-rY-ggq"; */
+"jfx-rY-ggq.normalTitle" = "Delete";
+
+/* Class = "IBUITextField"; placeholder = "Description"; ObjectID = "jmf-rj-hyC"; */
+"jmf-rj-hyC.placeholder" = "Description";
+
+/* Class = "IBUILabel"; text = "Including € 0.00 VAT"; ObjectID = "jui-kE-bs8"; */
+"jui-kE-bs8.text" = "Including € 0.00 VAT";
+
+/* Class = "IBUILabel"; text = "Payment Method"; ObjectID = "jwU-63-1Rv"; */
+"jwU-63-1Rv.text" = "Payment Method";
+
+/* Class = "IBUILabel"; text = "+3 MORE"; ObjectID = "k31-R7-CAG"; */
+"k31-R7-CAG.text" = "+3 MORE";
+
+/* Class = "IBUILabel"; text = "Fees"; ObjectID = "kD0-W4-Ote"; */
+"kD0-W4-Ote.text" = "Fees";
+
+/* Class = "IBUINavigationItem"; title = "More"; ObjectID = "kEm-Re-OTj"; */
+"kEm-Re-OTj.title" = "More";
+
+/* Class = "IBUILabel"; text = "84.80"; ObjectID = "kU8-on-pfY"; */
+"kU8-on-pfY.text" = "84.80";
+
+/* Class = "IBUILabel"; text = "GRAM"; ObjectID = "kz7-NK-FT9"; */
+"kz7-NK-FT9.text" = "GRAM";
+
+/* Class = "IBUIButton"; normalTitle = "Buy card reader"; ObjectID = "lO2-sP-ik8"; */
+"lO2-sP-ik8.normalTitle" = "Buy card reader";
+
+/* Class = "IBUILabel"; text = "VAT"; ObjectID = "lSl-cw-fsm"; */
+"lSl-cw-fsm.text" = "VAT";
+
+/* Class = "IBUIButton"; normalTitle = "By Name"; ObjectID = "mKK-bn-uSH"; */
+"mKK-bn-uSH.normalTitle" = "By Name";
+
+/* Class = "IBUIButton"; normalTitle = "Ongoing receipt & add note"; ObjectID = "mYH-If-MD3"; */
+"mYH-If-MD3.normalTitle" = "Ongoing receipt & add note";
+
+/* Class = "IBUILabel"; text = "General Settings"; ObjectID = "mYY-LU-c36"; */
+"mYY-LU-c36.text" = "General Settings";
+
+/* Class = "IBUIButton"; normalTitle = "Print marked parked receipt note"; ObjectID = "mtU-S3-ltA"; */
+"mtU-S3-ltA.normalTitle" = "Print marked parked receipt note";
+
+/* Class = "IBUINavigationItem"; title = "Receipt"; ObjectID = "nJ1-aO-MXt"; */
+"nJ1-aO-MXt.title" = "Receipt";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Password ?"; ObjectID = "nJu-71-Ynd"; */
+"nJu-71-Ynd.normalTitle" = "Forgot Password ?";
+
+/* Class = "IBUILabel"; text = "Completed"; ObjectID = "ndr-nw-76J"; */
+"ndr-nw-76J.text" = "Completed";
+
+/* Class = "IBUILabel"; text = "Row 2"; ObjectID = "nfT-Ye-As2"; */
+"nfT-Ye-As2.text" = "Row 2";
+
+/* Class = "IBUITextField"; text = "€"; ObjectID = "njq-th-2qX"; */
+"njq-th-2qX.text" = "€";
+
+/* Class = "IBUITabBarItem"; title = "Item 1"; ObjectID = "o9f-Oh-tDs"; */
+"o9f-Oh-tDs.title" = "Item 1";
+
+/* Class = "IBUIButton"; normalTitle = "Close"; ObjectID = "og5-vx-hat"; */
+"og5-vx-hat.normalTitle" = "Close";
+
+/* Class = "IBUILabel"; text = "Reset Password"; ObjectID = "ohW-Lp-bA5"; */
+"ohW-Lp-bA5.text" = "Reset Password";
+
+/* Class = "IBUILabel"; text = "Chocolate Truffle"; ObjectID = "ojH-tF-bEb"; */
+"ojH-tF-bEb.text" = "Chocolate Truffle";
+
+/* Class = "IBUILabel"; text = "Including € 0.00 VAT"; ObjectID = "pQH-os-1uj"; */
+"pQH-os-1uj.text" = "Including € 0.00 VAT";
+
+/* Class = "IBUILabel"; text = "Discount"; ObjectID = "q0u-eT-G0e"; */
+"q0u-eT-G0e.text" = "Discount";
+
+/* Class = "IBUILabel"; text = "Price per unit"; ObjectID = "qAO-LS-6bd"; */
+"qAO-LS-6bd.text" = "Price per unit";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "qCl-U2-1e5"; */
+"qCl-U2-1e5.text" = "Name";
+
+/* Class = "IBUITextField"; placeholder = "Description"; ObjectID = "qEx-qV-Xcl"; */
+"qEx-qV-Xcl.placeholder" = "Description";
+
+/* Class = "IBUILabel"; text = "VAT"; ObjectID = "qKx-KW-7jS"; */
+"qKx-KW-7jS.text" = "VAT";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "qMo-28-FKK"; */
+"qMo-28-FKK.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "qUa-n8-pBq"; */
+"qUa-n8-pBq.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "qye-QU-LGJ"; */
+"qye-QU-LGJ.normalTitle" = "OK";
+
+/* Class = "IBUILabel"; text = "@isupossupport"; ObjectID = "r4B-zg-JVX"; */
+"r4B-zg-JVX.text" = "@isupossupport";
+
+/* Class = "IBUITextField"; placeholder = "0.00 %"; ObjectID = "rLL-Rj-nV5"; */
+"rLL-Rj-nV5.placeholder" = "0.00 %";
+
+/* Class = "IBUILabel"; text = "Chocolate"; ObjectID = "rP5-uj-I0i"; */
+"rP5-uj-I0i.text" = "Chocolate";
+
+/* Class = "IBUITextField"; placeholder = "Find articles"; ObjectID = "rX3-Ox-oXx"; */
+"rX3-Ox-oXx.placeholder" = "Find articles";
+
+/* Class = "IBUIButton"; normalTitle = "Custom unit"; ObjectID = "s3Q-CJ-vaV"; */
+"s3Q-CJ-vaV.normalTitle" = "Custom unit";
+
+/* Class = "IBUITextField"; placeholder = "Variant Title"; ObjectID = "sAR-l6-Vhv"; */
+"sAR-l6-Vhv.placeholder" = "Variant Title";
+
+/* Class = "IBUILabel"; text = "Total"; ObjectID = "sHV-KE-fEn"; */
+"sHV-KE-fEn.text" = "Total";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "sTY-57-r0i"; */
+"sTY-57-r0i.normalTitle" = "Cancel";
+
+/* Class = "IBUITextField"; placeholder = "0.00 %"; ObjectID = "sU0-vA-Z7c"; */
+"sU0-vA-Z7c.placeholder" = "0.00 %";
+
+/* Class = "IBUITextField"; placeholder = "0.00"; ObjectID = "sUz-eL-zl7"; */
+"sUz-eL-zl7.placeholder" = "0.00";
+
+/* Class = "IBUILabel"; text = "€ 42.40"; ObjectID = "tTK-tI-puy"; */
+"tTK-tI-puy.text" = "€ 42.40";
+
+/* Class = "IBUIButton"; normalTitle = "Custom unit"; ObjectID = "taC-Y7-rf7"; */
+"taC-Y7-rf7.normalTitle" = "Custom unit";
+
+/* Class = "IBUILabel"; text = "Row 1"; ObjectID = "tfq-iZ-eFJ"; */
+"tfq-iZ-eFJ.text" = "Row 1";
+
+/* Class = "IBUILabel"; text = "€ 0.00"; ObjectID = "tlN-Oh-rvr"; */
+"tlN-Oh-rvr.text" = "€ 0.00";
+
+/* Class = "IBUILabel"; text = "Row 3"; ObjectID = "tsk-K4-Ty5"; */
+"tsk-K4-Ty5.text" = "Row 3";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "tvD-xi-iwr"; */
+"tvD-xi-iwr.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Including € 0.00 VAT"; ObjectID = "uK5-XY-8ya"; */
+"uK5-XY-8ya.text" = "Including € 0.00 VAT";
+
+/* Class = "IBUILabel"; text = "Article"; ObjectID = "uSw-xj-yeo"; */
+"uSw-xj-yeo.text" = "Article";
+
+/* Class = "IBUIButton"; normalTitle = "Price per unit"; ObjectID = "unk-Yq-iYj"; */
+"unk-Yq-iYj.normalTitle" = "Price per unit";
+
+/* Class = "IBUILabel"; text = "EAD9911"; ObjectID = "uqj-Wq-lXi"; */
+"uqj-Wq-lXi.text" = "EAD9911";
+
+/* Class = "IBUITabBarItem"; title = "Item 2"; ObjectID = "v0N-Ci-ZTd"; */
+"v0N-Ci-ZTd.title" = "Item 2";
+
+/* Class = "IBUILabel"; text = "GRAM"; ObjectID = "v9R-Vc-BEN"; */
+"v9R-Vc-BEN.text" = "GRAM";
+
+/* Class = "IBUIButton"; normalTitle = "Take Photo"; ObjectID = "vQY-p3-usz"; */
+"vQY-p3-usz.normalTitle" = "Take Photo";
+
+/* Class = "IBUILabel"; text = "20"; ObjectID = "vbU-LC-Ckc"; */
+"vbU-LC-Ckc.text" = "20";
+
+/* Class = "IBUILabel"; text = "2"; ObjectID = "vhR-0A-U7I"; */
+"vhR-0A-U7I.text" = "2";
+
+/* Class = "IBUIButton"; normalTitle = "Save"; ObjectID = "vrR-cp-S3e"; */
+"vrR-cp-S3e.normalTitle" = "Save";
+
+/* Class = "IBUILabel"; text = "€42200"; ObjectID = "vry-qL-FRx"; */
+"vry-qL-FRx.text" = "€42200";
+
+/* Class = "IBUISegmentedControl"; wD0-sW-qvt.segmentTitles[0] = "By Day"; ObjectID = "wD0-sW-qvt"; */
+"wD0-sW-qvt.segmentTitles[0]" = "By Day";
+
+/* Class = "IBUISegmentedControl"; wD0-sW-qvt.segmentTitles[1] = "By Month"; ObjectID = "wD0-sW-qvt"; */
+"wD0-sW-qvt.segmentTitles[1]" = "By Month";
+
+/* Class = "IBUISearchBar"; placeholder = "Search Quick Buttons"; ObjectID = "wJO-a3-Ip0"; */
+"wJO-a3-Ip0.placeholder" = "Search Quick Buttons";
+
+/* Class = "IBUILabel"; text = "€ 0.00"; ObjectID = "wYS-df-9C5"; */
+"wYS-df-9C5.text" = "€ 0.00";
+
+/* Class = "IBUILabel"; text = "Total"; ObjectID = "wZP-Yj-0bZ"; */
+"wZP-Yj-0bZ.text" = "Total";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "waH-R5-P6W"; */
+"waH-R5-P6W.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Amount"; ObjectID = "wtt-RS-UWu"; */
+"wtt-RS-UWu.text" = "Amount";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "wz9-pN-5xm"; */
+"wz9-pN-5xm.placeholder" = "Password";
+
+/* Class = "IBUITextField"; placeholder = "0.00"; ObjectID = "x4g-10-UgF"; */
+"x4g-10-UgF.placeholder" = "0.00";
+
+/* Class = "IBUILabel"; text = "Total Sales"; ObjectID = "x76-oa-j23"; */
+"x76-oa-j23.text" = "Total Sales";
+
+/* Class = "IBUILabel"; text = "Edit Product"; ObjectID = "x9S-Aw-jt0"; */
+"x9S-Aw-jt0.text" = "Edit Product";
+
+/* Class = "IBUIButton"; normalTitle = "ADD ITEM"; ObjectID = "xC2-N4-Rba"; */
+"xC2-N4-Rba.normalTitle" = "ADD ITEM";
+
+/* Class = "IBUILabel"; text = "€ 42.40"; ObjectID = "xCo-s0-2Mx"; */
+"xCo-s0-2Mx.text" = "€ 42.40";
+
+/* Class = "IBUIButton"; normalTitle = "Get help"; ObjectID = "xCu-qT-kE8"; */
+"xCu-qT-kE8.normalTitle" = "Get help";
+
+/* Class = "IBUILabel"; text = "Edit Product"; ObjectID = "xg0-K9-xah"; */
+"xg0-K9-xah.text" = "Edit Product";
+
+/* Class = "IBUILabel"; text = "€ 42200"; ObjectID = "xh9-XJ-X9X"; */
+"xh9-XJ-X9X.text" = "€ 42200";
+
+/* Class = "IBUIButton"; normalTitle = "Charge"; ObjectID = "xiX-BC-vsO"; */
+"xiX-BC-vsO.normalTitle" = "Charge";
+
+/* Class = "IBUINavigationItem"; title = "Articles"; ObjectID = "xor-fe-kdA"; */
+"xor-fe-kdA.title" = "Articles";
+
+/* Class = "IBUITextField"; placeholder = "00.0"; ObjectID = "yDu-3s-Mau"; */
+"yDu-3s-Mau.placeholder" = "00.0";
+
+/* Class = "IBUIButton"; normalTitle = "Charge"; ObjectID = "yEf-zl-Ztx"; */
+"yEf-zl-Ztx.normalTitle" = "Charge";
+
+/* Class = "IBUILabel"; text = "     Tax at the end of Receipt"; ObjectID = "yTj-2z-0lV"; */
+"yTj-2z-0lV.text" = "     Tax at the end of Receipt";
+
+/* Class = "IBUILabel"; text = "€ 00"; ObjectID = "yUd-oG-FaD"; */
+"yUd-oG-FaD.text" = "€ 00";
+
+/* Class = "IBUILabel"; text = "Sounds in app"; ObjectID = "yWm-hG-taF"; */
+"yWm-hG-taF.text" = "Sounds in app";
+
+/* Class = "IBUILabel"; text = "€ 42.40"; ObjectID = "yYt-Qb-8Pw"; */
+"yYt-Qb-8Pw.text" = "€ 42.40";
+
+/* Class = "IBUILabel"; text = "Price per unit"; ObjectID = "yoG-lV-bce"; */
+"yoG-lV-bce.text" = "Price per unit";
+
+/* Class = "IBUILabel"; text = "Auto fill exact amount tendered"; ObjectID = "ypf-cj-di4"; */
+"ypf-cj-di4.text" = "Auto fill exact amount tendered";
+
+/* Class = "IBUITextField"; placeholder = "Find articles"; ObjectID = "ytI-Tq-nsy"; */
+"ytI-Tq-nsy.placeholder" = "Find articles";
+
+/* Class = "IBUILabel"; text = "VAT: € 25.33"; ObjectID = "z2j-BM-CbF"; */
+"z2j-BM-CbF.text" = "VAT: € 25.33";
+
+/* Class = "IBUIButton"; normalTitle = "€"; ObjectID = "zKp-Ok-2Ty"; */
+"zKp-Ok-2Ty.normalTitle" = "€";
+
+/* Class = "IBUILabel"; text = "Chocolate Truffle"; ObjectID = "zdk-dn-w3L"; */
+"zdk-dn-w3L.text" = "Chocolate Truffle";
+
+/* Class = "IBUILabel"; text = "Please enter your email address to reset your password"; ObjectID = "zmp-F6-sHP"; */
+"zmp-F6-sHP.text" = "Please enter your email address to reset your password";

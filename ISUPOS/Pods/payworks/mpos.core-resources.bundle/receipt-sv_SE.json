@@ -1,0 +1,77 @@
+{
+    "info": {
+        "locale": "sv_SE"
+    }, 
+    "labels": {
+        "Date": "Datum", 
+        "Time": "Tid", 
+        "Status": "Status", 
+        "AmountAndCurrency": "Summa", 
+        "StatusText": "Information", 
+        "Subject": "Beskrivning", 
+        "TransactionType": "Typ", 
+        "ReceiptType": "Kvittotyp", 
+        "Identifier": "PWID", 
+        "PaymentDetailsSource": "Inmatningsläge", 
+        "PaymentDetailsEMVApplicationID": "AID", 
+        "PaymentDetailsSchemeOrLabel": "Kort", 
+        "PaymentDetailsMaskedAccount": "Konto", 
+        "PaymentDetailsCustomerVerification": "Verifikation", 
+        "PaymentDetailsAccountSequenceNumber": "Kortnummer", 
+        "ClearingDetailsTransactionIdentifier": "Transaktion", 
+        "ClearingDetailsOriginalTransactionIdentifier": "Original TX", 
+        "ClearingDetailsAuthorizationCode": "Tillstånd", 
+        "ClearingDetailsMerchantId": "KassaID", 
+        "ClearingDetailsTerminalId": "Terminal ID", 
+        "MerchantDetailsPublicName": "Namn", 
+        "MerchantDetailsAddress": "Adress.", 
+        "MerchantDetailsZip": "Postnummer", 
+        "MerchantDetailsCity": "Stad", 
+        "MerchantDetailsCountry": "Land", 
+        "MerchantDetailsContact": "Kontakt", 
+        "MerchantDetailsAdditionalInformation": "Ytterligare information"
+    }, 
+    "values": {
+        "ReceiptType": {
+            "MERCHANT": "Butikens kvitto", 
+            "CUSTOMER": "Kundens kvitto"
+        }, 
+        "StatusText": {
+            "APPROVED": "Behåll kvitto", 
+            "DECLINED": "Tillstånd nekad", 
+            "ABORTED": "Avbruten transaktion", 
+            "ERROR": "Ogiltig transaktion"
+        }, 
+        "PaymentDetailsSource": {
+            "ICC": "Chip", 
+            "MAGSTRIPE": "Magnetremsa", 
+            "CONTACTLESS": "Kontaktlös", 
+            "MAGSTRIPE_AS_FALLBACK": "Magnetremsa", 
+            "MANUAL": "Fastkilad", 
+            "MANUAL_AS_FALLBACK": "Fastkilad", 
+            "NFC_ICC": "Kontaktlös", 
+            "NFC_MAGSTRIPE": "Kontaktlös"
+        }, 
+        "TransactionType": {
+            "CHARGE": "Betalning", 
+            "REFUND": "Reversal", 
+            "CHARGE_UNCAPTURED": "Pre-Authorization"
+        }, 
+        "PaymentDetailsCustomerVerification": {
+            "NONE": "Ingen", 
+            "PIN": "PIN", 
+            "SIGNATURE": "Signatur", 
+            "PIN_AND_SIGNATURE": "PIN och signatur", 
+            "SHOPPER_DEVICE": "Kundanordning", 
+            "CARD_SECURITY_CODE": "Säkerhetskod godkänd", 
+            "UNKNOWN": "Okänd kontoinnehavare. Verifiering utförd "
+        }, 
+        "MessagesRetentionReminder": {
+            "MessagesRetentionReminder": "Behåll kvitto!"
+        }, 
+        "MessagesMerchantDeclaration": {
+            "REFUND": "VÄNLIGEN KREDITERA MITT KONTO MED TOTALSUMMAN", 
+            "CHARGE": "VÄNLIGEN DEBITERA MITT KONTO MED TOTALSUMMAN"
+        }
+    }
+}

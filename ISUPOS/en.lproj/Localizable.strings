@@ -1,0 +1,573 @@
+
+
+
+/*
+ Localizable.strings
+ ISUPOS
+ 
+ Created by Rohit Mahajan on 7/8/15.
+ Copyright (c) 2015 Impinge Solutions. All rights reserved.
+ */
+
+//Localization for Payworks receipts keys (Receipt Details)
+
+"Contact" = "Contact";
+"AID" = "AID";
+"Account" = "Account";
+"Additional Information" = "Additional Information";
+"Address" = "Address";
+"Amount" = "Amount";
+"Authorization" = "Authorization";
+"Card" = "Card";
+"City" = "City";
+"Country" = "Country";
+"Date" = "Date";
+"Entry Mode" = "Entry Mode";
+"Information" = "Information";
+"Merchant ID" = "Merchant ID";
+"Name" = "Name";
+"PWID" = "PWID";
+"Receipt Type" = "Receipt Type";
+"Terminal ID" = "Terminal ID";
+"Time" = "Time";
+"Transaction" = "Transaction";
+"Type" = "Type";
+"Zip" = "Zip";
+
+///////
+
+
+
+//Latest
+"Original"="Original";
+"Audit Log"="Audit Log";
+"Date"="Date";
+"Description"="Description";
+"Back"="Back";
+"Offline"="offline";
+"SALE"="SALE";
+"Generate Z day report"="Generate Z day report";
+"Z Day"="Z Day";
+
+"Day Report"="Day Report";
+"Month Report"="Month Report";
+
+"The email you entered is incorrect."="The email you entered is incorrect.";
+"There are no new transaction to generate report"="There are no new transaction to generate report";
+
+"Copy"="Copy";
+"Copies"="Copies";
+"Printer"="Printer";
+"Please enter block title and article no."="Please enter block title and article no.";
+"Printer Offline"="Printer Offline";
+"Print"="Print";
+"Printer Options"="Printer Options";
+"Change"="Change";
+"Monday"="Monday";
+"Tuesday"="Tuesday";
+"Wednesday"="Wednesday";
+"Thursday"="Thursday";
+"Friday"="Friday";
+"Saturday"="Saturday";
+"Sunday"="Sunday";
+"S No"="S No";
+
+"Receipt No"="Receipt No";
+
+"Z-REPORT"="Z-REPORT";
+
+"Z day report"="Z day report";
+"X day report"="X day report";
+
+"Reset Password"="Reset Password";
+
+//Login screen
+"Enter Email" = "Enter Email";
+"Password" = "Password";
+
+"Login" = "Login";
+"Cancel" = "Cancel";
+
+"Forgot Password ?" = "Forgot Password ?";
+
+//Quick Blocks tab
+"Quick Blocks"    = "Quick Blocks";
+"Quick Buttons" = "Quick Buttons";
+
+"Clear" = "Clear";
+"Including" = "Including";
+"Search Quick Buttons" = "Search Quick Buttons";
+"Charge" = "Charge";
+"Only one discount allowed on Cart." = "Only one discount allowed on Cart.";
+"Select Variant" = "Select Variant";
+
+
+//Quick cart press
+"Remove" = "Remove";
+"Comments" = "Comments";
+
+
+//Tab bar
+"Quick Blocks"    = "Quick Blocks";
+"Articles" = "Articles";
+"Receipt" = "Receipt";
+"Park Receipts" = "Park Receipts";
+"More" = "More";
+
+//Articles tab
+"Search Article" = "Search Article";
+"Add" = "Add";
+"Number" = "Number";
+"Name" = "Name";
+"Vat" = "VAT";
+"Barcode" = "Barcode";
+"Price" = "Price";
+"Data saved." = "Saved.";
+
+
+//Receipt tab
+"Article Number" = "Article Number";
+"Article Name"="Article Name";
+"Receipt Text" = "Receipt Text";
+"Amount" = "Amount";
+"Price" = "Price";
+"VAT" = "VAT";
+"Discount" = "Discount";
+"Total" = "Total";
+"Article" = "Article";
+
+
+//Park Receipts
+"Action" = "Action";
+"Park Time" = "Park Time";
+"Customer" = "Customer";
+"Notice"="Customer";
+"Park on going receipt" = "Park on going receipt";
+"Print ongoing receipt as tab" = "Print ongoing receipt as tab";
+"Activate"="Activate";
+
+
+
+//More Tab
+"Manage Articles" = "Manage Articles";
+"Quick Button/Blocks" = "Quick Button/Blocks";
+"Receipt Data" = "Receipt Data";
+"Transactions" = "Transactions";
+"Reports" = "Reports";
+"Printers" = "Printers";
+"Link of TimeDo" = "Link of TimeDo";
+"About ISUPOS" = "About ISUPOS";
+"General Settings" = "General Settings";
+"Sign Out" = "Sign Out";
+"Do you want to logout? "="Do you want to logout? ";
+"Yes"="Yes";
+"No"="No";
+
+
+//Manage Articles
+"Refresh Article" = "Refresh Article";
+"Add Article" = "Add Article";
+"Add Variant" = "Add Variant";
+"Variant Title" = "Variant Title";
+"Price" = "Price";
+"Submit" = "Submit";
+"Please Enter Valid Email" = "Please Enter Valid Email";
+
+//Quick blocks/Buttons
+"Save" = "Save";
+"ADD ITEM" = "ADD ITEM";
+"OK" = "OK";
+"Are you want to delete or edit?" = "Are you want to delete or edit?";
+"Add"="Add";
+"Done"="Done";
+"can't be Charge"="can't be Charge";
+"Add Item"="Add Item";
+"No printer found."="No printer found.";
+
+
+//Receipt Data
+"Date and Time"="Date and Time";
+"Receipt Data"="Receipt Data";
+"Company Information" = "Company Information";
+"Tax at the top of Receipt" = "Tax at the top of Receipt";
+"Tax at the end of Receipt" = "Tax at the end of Receipt";
+"Organization Number" = "Organization Number";
+"Company Name" = "Company Name";
+"Address 1" = "Address 1";
+"Address 2" = "Address 2";
+"Zip Code" = "Zip Code";
+"City" = "City";
+"Phone" = "Phone";
+"Fax" = "Fax";
+"Homepage" = "Homepage";
+"Row 1" = "Row 1";
+"Row 2" = "Row 2";
+"Row 3" = "Row 3";
+"Row 4" = "Row 4";
+"Row 5" = "Row 5";
+"Cash" = "Cash";
+"Seller"= "Seller";
+"To Pay" = "To Pay";
+"Short" = "Short";
+"Vat Total" = "Vat Total";
+"Control:" = "Control:";
+"Card Transaction" = "Card Transaction";
+"Payment" = "Payment";
+"Shop No." = "Shop No.";
+"TerminalId:"="TerminalId:";
+"Save the receipt" = "Save the receipt";
+"Customer Copy" = "Customer Copy";
+"Card" = "Card";
+"Entry Mode" = "Entry Mode";
+"The store's receipt of payment" = "The store's receipt of payment";
+"Checkout ID" = "Checkout ID";
+"Authorization" = "Authorization";
+"Keep the receipt" = "Keep the receipt";
+"Cut here" = "Cut here";
+
+//Transactions screen
+"Amount, receipt no" = "Amount, receipt no";
+"Find Transaction" = "Find Transaction";
+"Refund" = "Refund";
+"Cash" = "Cash";
+"View on map" = "View on map";
+"View Original Payment" = "View Original Payment";
+"Transactions"="Transactions";
+"January" = "January";
+"February" = "February";
+"March" = "March";
+"April" = "April";
+"May"="May";
+"June"="June";
+"July"="July";
+"August"="August";
+"September"="September";
+"October"="October";
+"November"="November";
+"December"="December";
+
+"Jan."="Jan.";
+"Feb."="Feb.";
+"Mar."="Mar.";
+"Apr."="Apr.";
+"May"="May";
+"June"="June";
+"July"="July";
+"Aug."="Aug.";
+"Sept."="Sept.";
+"Oct."="Oct.";
+"Nov."="Nov.";
+"Dec."="Dec.";
+
+
+"Jan"="Jan";
+"Feb"="Feb";
+"Mar"="Mar";
+"Apr"="Apr";
+"May"="May";
+"June"="June";
+"July"="July";
+"Aug"="Aug";
+"Sep"="Sep";
+"Oct"="Oct";
+"Nov"="Nov";
+"Dec"="Dec";
+
+
+
+//Report screen
+"By day" = "By day";
+"By Month" = "By Month";
+"Reports" = "Reports";
+"Top Selling Products" = "Top Selling Products";
+"Payments" = "Payments";
+"Total Sales" = "Total Sales";
+"Discounts" = "Discounts";
+"Card payments" = "Card payments";
+"Cash" = "Cash";
+"Refund" = "Refund";
+"Fees" = "Fees";
+"Cash payments" = "Cash payments";
+"Swish payments" = "Swish payments";
+"Other payments" = "Other payments";
+"Please enter your email"= "Please enter your email";
+"Print"="Print";
+"Copies print"="Copies print";
+"Copies email"="Copies email";
+
+
+
+
+//TimeDo screen
+"TimeDo" = "TimeDo";
+
+
+
+//Help & Support
+"Help & Support" = "Help & Support";
+"How to get started with ISUPOS" = "How to get started with ISUPOS";
+"Contact Support" = "Contact Support";
+"Close" = "Close";
+"Support Pages"="Support Pages";
+
+
+//General Settings Screen
+"General Settings" = "General Settings";
+"Cash Payments" = "Cash Payments";
+"Auto fill amount" = "Auto fill amount";
+"Auto fill exact amount tendered" = "Auto fill exact amount tendered";
+"Skip" = "Skip";
+"Skip amount tendered view" = "Skip amount tendered view";
+"Thank you view" = "Thank you view";
+"Auto dismiss" = "Auto dismiss";
+"Always auto dismiss thank you view" = "Always auto dismiss thank you view";
+"Sound effects" = "Sound effects";
+"Play sound effects in app" = "Play sound effects in app";
+"Email" = "Email";
+"Account Settings" = "Account Settings";
+"Currency" = "Currency";
+"Vat" = "VAT";
+"Vat Variations" = "VAT Variations";
+"Language" = "Language";
+"Sounds in app" = "Sounds in app";
+"Account Settings" = "Account Settings";
+"Enter Company ID" = "Enter Company ID";
+"TimeDo" = "TimeDo";
+"Central Key" = "Central Key";
+"Infrasec Key" = "Infrasec Key";
+"Greengate Credentials" = "Greengate Credentials";
+"New Password" = "New Password";
+"Confirm Password" = "Confirm Password";
+"Username" = "Username";
+"Password" = "Password";
+"ApplicationID"="ApplicationID";
+"ManRegisterId"="ManRegisterId";
+"Select Format"="Select Format";
+"Time Format"="Time Format";
+"12 Hours" = "12 Hours";
+"24 Hours" = "24 Hours";
+"Journal" = "Journal";
+"Select Mode" = "Select Mode";
+"Merchant Secret Key" = "Merchant Secret Key";
+"Test" = "Test";
+"Signup" = "Signup";
+//Vat screen;
+"VAT Variants" = "VAT Variants";
+"Add VAT Variant" = "Add VAT Variant";
+"Payworks Credentials" = "Payworks Credentials";
+
+"Skip registration" = "Skip registration";
+"Register here" = "Register here";
+
+//Add new product
+
+"New Product"="New Product";
+"Description"="Description";
+"Title"="Title";
+"Product saved." = "Product saved.";
+"Barcode"="Barcode";
+
+
+// THANK YOU SCREEN
+
+"Tendered"="Tendered";
+"Purchase Completed"="Purchase Completed";
+"Thank You"="Thank You";
+
+//payment Method screen
+"Payment Method"="Payment Method";
+"Manual Entry"="Manual Entry";
+"Card Payment"="Card Payment";
+"Cash"="Cash";
+"No card reader connected"="No card reader connected";
+"Connect an ISUPOS card reader to accept easy card payments."="Connect an ISUPOS card reader to accept easy card payments.";
+"Buy card reader"="Buy card reader";
+"Get help"="Get help";
+"The receipt CTU server is not accepting the receipt"="The receipt CTU server is not accepting the receipt";
+"None"="None";
+"Miura card reader connected"="Miura card reader connected";
+//custom amount screen
+
+"Custom Amount"="Custom Amount";
+"Custom Discount"="Custom Discount";
+
+//Edit Product
+
+"Edit Product"="Edit Product";
+"Price per unit"="Price per unit";
+"Delete"="Delete";
+"Custom Unit"="Custom Unit";
+"Take Photo"="Take Photo";
+"Choose From Library"="Choose From Library";
+"Product Updated." = "Product Updated.";
+"Do you want to Remove Article?" = "Do you want to Remove Article?";
+"Including VAT"="Including VAT";
+
+"Please enter Barcode"="Please enter Barcode";
+"Please enter price"="Please enter price";
+"Barcode already exist"="Barcode already exist";
+"Please enter product title."="Please enter product title.";
+"Please enter product description."="Please enter product description.";
+"Please enter price"="Please enter price";
+"Price per unit"="Price per unit";
+"Please add atleast one variant."="Please add atleast one variant.";
+"Product saved."="Product saved.";
+"Unable to find a camera on your device."="Unable to find a camera on your device.";
+"Card payment method not available."="Card payment method not available.";
+"Payment cancelled."="Payment cancelled.";
+"Please enter units"="Please enter units";
+"Product Updated."="Product Updated.";
+"Unable to find a camera on your device."="Unable to find a camera on your device.";
+"Error"="Error";
+//"Auto Connection function is available only when the security setting is \"SSP\”.""="Auto Connection function is available only when the security setting is \"SSP\”."";
+"is invalid PIN Code"="is invalid PIN Code";
+"The PIN Code is 4 to 16 digits."="The PIN Code is 4 to 16 digits.";
+"Warning"="Warning";
+"iPhone and iPod touch cannot use Alphabet PIN code, iPad only can use."="iPhone and iPod touch cannot use Alphabet PIN code, iPad only can use.";
+"Failed to open port."="Failed to open port.";
+"Failed to apply."="Failed to apply.";
+"Complete"="Complete";
+"To apply settings, please turn the device power OFF and ON, and established pairing again."="To apply settings, please turn the device power OFF and ON, and established pairing again.";
+
+"Printer Error"="Printer Error";
+"Write port timed out"="Write port timed out";
+"Printer Status"="Printer Status";
+"Get status failed"="Get status failed";
+"Please enter all fields."="Please enter all fields.";
+"Discount is not more than 100%."="Discount is not more than 100%.";
+"Discount is not more than actual amount."="Discount is not more than actual amount.";
+"Please enter discount."="Please enter discount.";
+"Fail to Open Port"="Fail to Open Port";
+"Firmware"="Firmware";
+"Get firmware information failed"="Get firmware information failed";
+"Fail to Open Port"="Fail to Open Port";
+"Drawer Status"="Drawer Status";
+"Get status failed."="Get status failed.";
+"Fail to Open Port"="Fail to Open Port";
+"Printer is offline"="Printer is offline";
+"Sorry"="Sorry";
+"Password did not match"="Password did not match";
+"Please select variant."="Please select variant.";
+"Please enter units"="Please enter units";
+
+"This function requires iOS6 or later."="This function requires iOS6 or later.";
+
+"Failure"="Failure";
+
+"The password is incorrect. stop the process."="The password is incorrect. stop the process.";
+
+"Please Input Password"="Please Input Password";
+
+"Select Interface"="Select Interface";
+
+"Select Port"="Select Port";
+
+"This function requires iOS6 or later."="This function requires iOS6 or later.";
+
+"Please check your internet connection."="Please check your internet connection.";
+
+"Please enter username and password on settings screen."="Please enter username and password on settings screen.";
+
+"Get firmware information failed"="Get firmware information failed";
+
+"Unsupported"="Unsupported";
+
+"Cash Drawer is unsupported by portable printers"="Cash Drawer is unsupported by portable printers";
+
+"Get status failed"="Get status failed";
+
+"An error has occurred during printing."="An error has occurred during printing.";
+
+"Swipe a credit card"="Swipe a credit card";
+
+"Failed to read port"="Failed to read port";
+
+"Already have products in cart. Do you want to exchange the cart."="Already have products in cart. Do you want to exchange the cart.";
+
+"Some error has occurred. Please check your Infrasec credntials"="Some error has occurred. Please check your Infrasec credntials";
+
+"This function is available via the bluetooth interface only."="This function is available via the bluetooth interface only.";
+
+"initWithPortName:deviceType: is failure."="initWithPortName:deviceType: is failure.";
+
+"open is failure."="open is failure.";
+
+"loadSetting is failure."="loadSetting is failure.";
+
+"Fail to Disconnect"="Fail to Disconnect";
+
+"Please enter block title and article no."="Please enter block title and article no.";
+
+"No match found"="No match found";
+
+"Refund can't be undone"="Refund can't be undone";
+
+"Please enter email and password for login."="Please enter email and password for login.";
+
+"The email or password you entered is incorrect."="The email or password you entered is incorrect.";
+
+"No Results Found."="No Results Found.";
+"Edit" = "Edit";
+
+//"Grand total sales1"="Grand total sales";
+//"Total sale amount1:"="Total sale amount:";
+//"Cash sale amount1:"="Cash sale amount:";
+//"Card sale amount1:"="Card sale amount:";
+
+
+//Receipt Format
+
+"Date"="Date";
+"Time"="Time";
+"SALE"="SALE";
+"Total"="Total";
+"Sign Here"="Sign Here";
+"Thank you for buying!"="Thank you for buying!";
+"ChargePay"="ChargePay";
+
+"Receipt email"="Receipt email";
+"Receipt print"="Receipt print";
+"Grand total sales"="Grand total sales";
+"Grand total refund"="Grand total refund";
+"Grand total sales-refund"="Grand total sales-refund";
+"Products"="Products";
+"Report Number"="Report Number";
+"Number of total refunds:"="Number of total refunds:";
+
+
+
+"Total sale amount:"="Total sale amount:";
+"Total products:"="Total products:";
+"Total receipts:"="Total receipts:";
+"Number of receipts mailed:"="Number of receipts mailed:";
+"Number of receipts printed:"="Number of receipts printed:";
+"Number of copies mailed:"="Number of copies mailed:";
+"Number of copies printed:"="Number of copies printed:";
+
+"Total refunds:"="Total refunds:";
+"VAT:"="VAT:";
+"Discounts:"="Discounts:";
+
+"Printed report of"="Printed report of";
+"Emailed report of"="Emailed report of";
+
+"Cash sale amount:"="Cash sale amount:";
+"Card sale amount:"="Card sale amount:";
+"Swish sale amount:"="Swish sale amount:";
+"Other sale amount:"="Other sale amount:";
+"Number of cash payments:"="Number of cash payments:";
+"Number of card payments:"="Number of card payments:";
+"Number of swish payments:"="Number of swish payments:";
+"Number of other payments:"="Number of other payments:";
+
+
+"Emails" = "Emails";
+"Enable" = "Use Control Unit";
+"Exchange" = "Exchange";
+
+"Please enter valid price." = "Please enter valid price.";
+"Other" = "Other";
+
+"Starting cash value:" = "Starting cash value:";
+"Total amount in copies printed:" = "Total amount in copies printed:";
+"Total amount in copies mailed:" = "Total amount in copies mailed:";

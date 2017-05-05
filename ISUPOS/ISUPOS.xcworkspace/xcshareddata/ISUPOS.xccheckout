@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1626070-BBF6-48DF-B5F6-A7EAE87757E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ISUPOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B7B49DACA66C1ACA710D450E08F29CF0E55701E4</key>
+		<string>https://github.com/wermware/isupos_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ISUPOS/ISUPOS.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B7B49DACA66C1ACA710D450E08F29CF0E55701E4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wermware/isupos_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B7B49DACA66C1ACA710D450E08F29CF0E55701E4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B7B49DACA66C1ACA710D450E08F29CF0E55701E4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>18%20Aug%20ISUPOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

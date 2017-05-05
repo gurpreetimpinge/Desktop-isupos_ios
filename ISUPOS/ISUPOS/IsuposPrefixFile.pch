@@ -1,0 +1,34 @@
+//
+//  IsuposPrefixFile.pch
+//  ISUPOS
+//
+//  Created by Mac User on 4/6/15.
+//  Copyright (c) 2015 Impinge Solutions. All rights reserved.
+//
+
+
+
+#ifndef ISUPOS_IsuposPrefixFile_pch
+#define ISUPOS_IsuposPrefixFile_pch
+
+#import "Constants.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+int klm;
+float totalamount;
+float popupDiscount;
+NSString *pressedname,*pressedindex,*pressedArticleindex,*str_msg;
+BOOL paymentdone;
+
+NSString *vat1, *vat2, *vat3, *vat4, *emailid, *password, *confirmPassword, *language;
+#endif
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <SplunkMint/SplunkMint.h>
+#import <CoreData/CoreData.h>
+#import "CommonMethods.h"
+#import "NSMutableDictionary+NilValueCheck.h"
+#import <mpos.core/mpos-extended.h>  // miura header file
+#endif

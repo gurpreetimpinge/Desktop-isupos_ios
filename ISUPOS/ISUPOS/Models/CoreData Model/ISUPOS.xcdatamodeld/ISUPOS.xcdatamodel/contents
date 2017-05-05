@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15G31" minimumToolsVersion="Automatic">
+    <entity name="Article" representedClassName="Article" syncable="YES">
+        <attribute name="article_description" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="article_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="article_img_url" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="article_no" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="article_ServerKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="barc_img_url" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="barcode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="created_by" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="created_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="discount" optional="YES" attributeType="Float" defaultValueString="0" syncable="YES"/>
+        <attribute name="is_active" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="is_deleted" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="modified_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="old" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="unit" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="unit_type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="unitName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vat" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <relationship name="quickArticleDetails" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="QuickArticle" inverseName="articleDetails" inverseEntity="QuickArticle" syncable="YES"/>
+        <relationship name="variantDetails" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Variant" inverseName="articleDetails" inverseEntity="Variant" syncable="YES"/>
+    </entity>
+    <entity name="Cart" syncable="YES">
+        <attribute name="article_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="barcode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="count" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="discount" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="discountType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="on_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="vat" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="CustomDiscount" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="discount" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="discountCard" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="discountCash" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="discription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentMethod" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="EmailList" syncable="YES">
+        <attribute name="emailId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="GlobalVariables" syncable="YES">
+        <attribute name="copyMail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="copyMailZDay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="copyPrint" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="copyPrintZDay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="originalMail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="originalMailZDay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="originalPrint" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="originalPrintZDay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="refund" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="refundZDay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCopyMailAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCopyMailAmountZDay" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCopyPrintAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCopyPrintAmountZDay" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Log" syncable="YES">
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="discription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sno" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ParkedCart" syncable="YES">
+        <attribute name="article_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="barcode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="count" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="custId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="discount" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="on_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="vat" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="QuickArticle" representedClassName="QuickArticle" syncable="YES">
+        <attribute name="article_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="created_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="modified_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="quick_article_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="quick_item_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="articleDetails" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="quickArticleDetails" inverseEntity="Article" syncable="YES"/>
+        <relationship name="quickItemDetails" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="QuickItem" inverseName="quickArticleDetails" inverseEntity="QuickItem" syncable="YES"/>
+    </entity>
+    <entity name="QuickBlocks" syncable="YES">
+        <attribute name="dateCreated" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="modified_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quick_article_nos" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="QuickItem" representedClassName="QuickItem" syncable="YES">
+        <attribute name="created_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="is_active" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="is_deleted" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="modified_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quick_item_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="quickArticleDetails" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="QuickArticle" inverseName="quickItemDetails" inverseEntity="QuickArticle" syncable="YES"/>
+    </entity>
+    <entity name="ReceiptData" syncable="YES">
+        <attribute name="address1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="address2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fax" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="homepage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="organization_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row10" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="zipcode" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ReceiptNo" syncable="YES">
+        <attribute name="cardid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="infrasecid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receiptdate" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <entity name="Recepit_CardPayment" syncable="YES">
+        <attribute name="merchant_additional_information" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="merchant_address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="merchant_city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="merchant_contact" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="merchant_country" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="merchant_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="merchant_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="merchant_zipcode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_account" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_aid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_amount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_authorization_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_card" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_card_number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_entry_mode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="receipt_information" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_pwid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_terminal_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_time" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_transaction_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_transaction_reference_number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="receipt_type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="RefundAmount" syncable="YES">
+        <attribute name="article_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bar_img_url" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="barcode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="count" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="currency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="discount" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="discription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="mailStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentMethod" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="peritemprice" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="printStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="refundDate" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="rid" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalAmount" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vat" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="zdayStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Setting" syncable="YES">
+        <attribute name="appTimeFormat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="autoDismissThankyou" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="autoFillAmount" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="skipTenderedView" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="soundInApp" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <entity name="Trasections" syncable="YES">
+        <attribute name="article_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bar_img_url" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="barcode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="count" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="currency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="discount" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="discountType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="discription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="isrefund" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="mailStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentMethod" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="peritemprice" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="printStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="rid" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="vat" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="zdayStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="created_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="first_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="is_active" optional="YES" attributeType="Boolean" defaultValueString="YES" syncable="YES"/>
+        <attribute name="is_deleted" optional="YES" attributeType="Boolean" defaultValueString="NO" syncable="YES"/>
+        <attribute name="last_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="modified_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="user_type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Variant" representedClassName="Variant" syncable="YES">
+        <attribute name="article_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="created_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="modified_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="variant_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="articleDetails" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Article" inverseName="variantDetails" inverseEntity="Article" syncable="YES"/>
+    </entity>
+    <entity name="VatandCurrency" syncable="YES">
+        <attribute name="currency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="language" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vatt" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vattt" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vatttt" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="VatVariation" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="vat" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ZDay" syncable="YES">
+        <attribute name="cardPayment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cashPayment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="discunts" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="grandtotal_refundCount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="grandTotalRefund" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="grandTotalSale" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="grandtotalSale_Refund" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="mailStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="otherPayment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentCount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="printStatus" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="refund" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="refundcount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="swishPayment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCardPayments" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCashPayments" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCopyMailAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalCopyPrintAmount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalEmail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalEmailCopies" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalOtherPayments" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalPayments" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalPrint" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalPrintCopies" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalProduct" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalSwishPayments" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vat" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Article" positionX="855" positionY="2241" width="171" height="375"/>
+        <element name="Cart" positionX="819" positionY="1998" width="128" height="210"/>
+        <element name="CustomDiscount" positionX="1368" positionY="2133" width="128" height="180"/>
+        <element name="EmailList" positionX="1017" positionY="1521" width="128" height="60"/>
+        <element name="GlobalVariables" positionX="1368" positionY="2133" width="128" height="255"/>
+        <element name="Log" positionX="1368" positionY="2133" width="128" height="90"/>
+        <element name="ParkedCart" positionX="1368" positionY="2133" width="128" height="210"/>
+        <element name="QuickArticle" positionX="1474" positionY="2250" width="128" height="148"/>
+        <element name="QuickBlocks" positionX="1609" positionY="2133" width="128" height="118"/>
+        <element name="QuickItem" positionX="1672" positionY="2375" width="128" height="163"/>
+        <element name="ReceiptData" positionX="1368" positionY="2133" width="128" height="343"/>
+        <element name="ReceiptNo" positionX="1582" positionY="2016" width="128" height="103"/>
+        <element name="Recepit_CardPayment" positionX="1071" positionY="1943" width="128" height="403"/>
+        <element name="RefundAmount" positionX="1753" positionY="1926" width="128" height="405"/>
+        <element name="Setting" positionX="1438" positionY="1899" width="128" height="150"/>
+        <element name="Trasections" positionX="1251" positionY="2250" width="128" height="375"/>
+        <element name="User" positionX="1611" positionY="1377" width="171" height="208"/>
+        <element name="Variant" positionX="1420" positionY="2475" width="128" height="148"/>
+        <element name="VatandCurrency" positionX="1231" positionY="2025" width="128" height="148"/>
+        <element name="VatVariation" positionX="1231" positionY="1899" width="128" height="73"/>
+        <element name="ZDay" positionX="1071" positionY="2418" width="128" height="480"/>
+    </elements>
+</model>

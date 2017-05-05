@@ -1,0 +1,525 @@
+/*
+ Localizable.strings
+ ISUPOS
+ 
+ Created by Rohit Mahajan on 7/8/15.
+ Copyright (c) 2015 Impinge Solutions. All rights reserved.
+ */
+
+
+//Localization for Payworks receipts keys (Receipt Details)
+
+"Contact" = "Kontakt";
+"AID" = "AID";
+"Account" = "Konto";
+"Additional Information" = "Ytterligare information";
+"Address" = "Adress.";
+"Amount" = "Summa";
+"Authorization" = "Tillst\U00e5nd";
+"City" = "Stad";
+"Country" = "Land";
+"Date" = "Datum";
+"Entry Mode" = "Inmatningsl\U00e4ge";
+"Information" = "Information";
+"Merchant ID" = "KassaID";
+"Name" = "Namn";
+"PWID" = "PWID";
+"Receipt Type" = "Kvittotyp";
+"Terminal ID" = "Terminal ID";
+"Time" = "Tid";
+"Transaction" = "Transaktion";
+"Type" = "Typ";
+"Zip" = "Postnummer";
+
+///////
+
+
+
+//Latest
+"Original"="original";
+"Audit Log"="Granskningslogg";
+"Date"="datum";
+"Description"="Beskrivning";
+"Back"="tillbaka";
+"Offline"="offline";
+"SALE"="FÖRSÄLJNING";
+
+"Generate Z day report"="Generera Z dag rapport";
+"Z Day"="Z Dag";
+
+"Z-REPORT"="Z-RAPPORT";
+"There are no new transaction to generate report"="Det finns inga nya transaktioner för att generera rapport";
+
+
+"Day Report"="dag Rapportera";
+"Month Report"="Månadsrapport";
+
+
+"The email you entered is incorrect."="E-postmeddelandet du angav är felaktig.";
+"Copy"="kopia";
+"Copies"="kopior";
+"Printer"="Skrivare";
+"Please enter block title and article no."="Skriv in titel och artikelnummer.";
+"Printer Offline"="Skrivare offline";
+"Print"="Skriv ut";
+"Printer Options"="skrivaralternativ";
+"Change"="Växel";
+"Monday"="Måndag";
+"Tuesday"="Tisdag";
+"Wednesday"="Onsdag";
+"Thursday"="Torsdag";
+"Friday"="Fredag";
+"Saturday"="Lördag";
+"Sunday"="Söndag";
+
+"Receipt No"="kvitto nr";
+
+"Z day report"="Z dag rapport";
+"X day report"="X dag rapport";
+"Reset Password"="Återställ lösenord";
+
+"S No"="S No";
+
+//Login screen
+"Enter Email"="Ange email";
+"Password"="Lösenord";
+
+"Login"="Logga in";
+"Cancel"="Avbryt";
+"Close" = "Stäng";
+
+"Forgot Password ?"="Glömt Lösenord?";
+
+//Quick Blocks tab
+"Quick Blocks"    = "Paneler";
+"Quick Buttons" = "Snabbknappar";
+
+"Clear"="Rensa";
+"Including"="Inklusive";
+"Search Quick Buttons"="Sök snabbknappar";
+"Charge"="Betala";
+"ADD ITEM" = "Lägg till";
+"Add Item" = "Lägg till";
+"Select Variant"="Välj variant";
+"Done"="Klar";
+
+//Quick cart press
+"Remove" = "Ta bort";
+"Comments" = "kommentarer";
+
+
+//Tab bar
+"Quick Blocks"= "Paneler";
+"Articles"="Artikelregister";
+"Receipt"="Kvitto";
+"Park Receipts"="Parkera kvitto";
+"More"="Mer";
+"Add"="Lägg till";
+//Articles tab
+"Search Article"="Sök artikel";
+"Number"="Nummer";
+"Name"="Namn";
+"Vat"="Moms";
+"Barcode"="Streckkod";
+"Price"="Pris";
+"Data saved." = "Sparats";
+
+
+//Receipt tab
+"Article Number"="Artikelnummer";
+"Article Name"="Artikelnamn";
+"Receipt Text"="Kvittotext";
+"Amount"="Antal";
+"Price"="Pris";
+"VAT"="Moms";
+"Discount"="Rabatt";
+"Total"="Total";
+"Article"="Artikel";
+
+
+//Park Receipts
+"Action"="Åtgärd";
+"Park Time"="Parkerad den";
+"Notice"="Kund";
+"Park on going receipt"="Parkera pågående kvitto";
+"Print ongoing receipt as tab"="Skriv pågående kvitto som tab";
+"Activate"="aktivera";
+"Please enter your email" = "Ange e-postadress";
+"Customer" = "Kund";
+
+
+
+//More Tab
+"Manage Articles"="Hantera Artiklar";
+"Quick Button/Blocks"="Snabbknappar/grupper";
+"Receipt Data"="Kvittodata";
+"Transactions"="Transactioner";
+"Reports"="Rapporter";
+"Printers"="Skrivare";
+"Link of TimeDo"="Länk av TimeDo";
+"About ISUPOS"="Om ISUPOS";
+"General Settings"="Allmänna Inställningar";
+"Sign Out"="Logga ut";
+"Do you want to logout? "="Vill du logga ut? ";
+"Yes"="Ja";
+"No"="Nej";
+
+
+//Manage Articles
+"Refresh Article"="Ladda artiklar från Central";
+"Add Article"="Skapa artikel";
+"Add Variant" = "Lägg till variant";
+"Variant Title" = "Variant-titel";
+"Price" = "Pris";
+"Submit" = "Bekräfta";
+
+
+//Quick blocks/Buttons
+"Save"="Spara";
+"OK" = "OK";
+"Are you want to delete or edit?" = "Är du vill ta bort eller ändra?";
+"Only one discount allowed on Cart." = "Du kan endast ha 1 rabatt i varukorgen.";
+
+
+//Receipt Data
+"Date and Time"="Datum och tid";
+"Receipt Data"="Kvittoinformation";
+"Company Information"="Bolagsinformation";
+"Tax at the top of Receipt"="Text kvittohuvud";
+"Tax at the end of Receipt"="Text kvittofot";
+"Organization Number"="Organisationsnummer";
+"Company Name"="Företagsnamn";
+"Address 1"="Adress 1";
+"Address 2"="Adress 2";
+"Zip Code"="Postnummer";
+"City"="Postort";
+"Phone"="Telefon";
+"Fax"="Fax";
+"Homepage"="Hemsida";
+"Row 1"="Rad 1";
+"Row 2"="Rad 2";
+"Row 3"="Rad 3";
+"Row 4"="Rad 4";
+"Row 5"="Rad 5";
+"Cash" = "Kassa";
+"Seller"= "Saljare";
+"To Pay" = "ATT BETALA";
+"Short" = "Kort";
+"Vat Total" = "Moms Total";
+"Control:" = "Kontrollenhet:";
+"Card Transaction" = "KORTTRANSAKTION";
+"Payment" = "Betalning";
+"Shop No." = "Butiknr:";
+"TerminalId:"="TerminalaId:";
+"Save the receipt" = "SPARA KVITTOT";
+"Customer Copy" = "KUNDENS EXEMPLAR";
+"Card" = "Kort";
+"Entry Mode" = "Inmatningslage";
+"The store's receipt of payment" = "Butikens kvitto Betalning";
+"Checkout ID" = "KassaID";
+"Authorization" = "Tillstand";
+"Keep the receipt" = "Behall kvitto";
+"Cut here" = "Skär här";
+
+
+//Transactions screen
+"Amount, receipt no"="Belopp, kvittonummer ";
+"Find Transaction"="Hitta transaktion";
+"Refund"="≈terkˆp";
+"Cash"="Kontant";
+"View on map"="Visa på karta";
+"View Original Payment" = "Visa ";
+"Transactions"="Transaktioner";
+
+"January" = "Januari";
+"February" = "Februari";
+"March" = "Mars";
+"April" = "April";
+"May"="Maj";
+"June"="Juni";
+"July"="Juli";
+"August"="Augusti";
+"September"="September";
+"October"="Oktober";
+"November"="November";
+"December"="December";
+
+"Jan"="jan";
+"Feb"="febr";
+"Mar"="mars";
+"Apr"="april";
+"May"="maj";
+"Jun"="juni";
+"Jul"="juli";
+"Aug"="aug";
+"Sep"="sep";
+"Oct"="okt";
+"Nov"="nov";
+"Dec"="dec";
+
+//Report screen
+"By day"="Dag";
+"By Month"="Månad";
+"Reports"="Rapporter";
+"Top Selling Products"="Populära produkter";
+"Payments"="Betalningar";
+"Total Sales"="Total försäljning";
+"Discounts"="Rabatter";
+"Card payments"="Kortbetalningar";
+"Cash"="Kontant";
+"Refund"="Återbetalning";
+"Fees"="Avgifter";
+"Cash payments"="Kontant betalning";
+"Swish payments" = "Swish betalning";
+"Other payments" = "Andra betalning";
+
+"Copies print"="kopior print";
+"Copies email"="kopior e";
+
+//TimeDo screen
+"TimeDo"="TimeDo";
+
+//Help & Support
+"Help & Support"="Hjälp och support";
+"How to get started with ISUPOS"="Kom igång med ISUPOS";
+"Contact Support"="Kontakta support";
+"Support Pages"="Supportsidor";
+
+
+//General Settings Screen
+"General Settings"="Allmänna Inställningar";
+"Cash Payments"="Kontantbetalning";
+"Auto fill amount"="Fyll i belopp automatiskt";
+"Auto fill exact amount tendered"="Fyll i exakt mottaget belopp automatiskt";
+"Skip"="Hoppa över";
+"Skip amount tendered view"="Hoppa över inbetalat belopp";
+"Thank you view"="Tackvy";
+"Auto dismiss"="Avfärda automatiskt";
+"Always auto dismiss thank you view"="Stäng tackvyn automatiskt";
+"Sound effects"="Ljudeffekter";
+"Play sound effects in app"="Använd ljudeffekter";
+"Email"="E-post";
+"Currency"="Valuta";
+"Vat"="Moms";
+"VAT"="Moms";
+"Vat Variations"="Momssatser";
+"Language"="Språk";
+"Sounds in app" = "Ljudeffekter";
+"Account Settings" = "Kontoinställningar";
+"New Password" = "Nytt Lösenord";
+"Confirm Password" = "Bekräfta Lösenord";
+"TimeDo" = "TimeDo";
+"Enter Company ID" = "Ange Company ID";
+"Central Key" = "Central inställningar";
+"Infrasec Key" = "Infrasec Key";
+"Greengate Credentials" = "Kontrollenhet";
+"Username" = "Användarnamn";
+"Password" = "Lösenord";
+"ApplicationID"="applicationID";
+"ManRegisterId"="ID-nummer kontrollenhet";
+"Select Format"="Välj tidsformat";
+"Time Format"="Tidsformat";
+"12 Hours" = "12 timmar";
+"24 Hours" = "24 timmar";
+"Journal" = "Journal";
+"Select Mode" = "Välj läge";
+"Merchant Secret Key" = "Merchant hemlig nyckel";
+"Test" = "Testa";
+"Signup" = "Registrera";
+//Vat screen;
+"Vat Variants"="Momssatser";
+"Add Vat Variant"="Lägg Vat Variant";
+"Payworks Credentials" = "Kortintegration";
+"Skip registration" = "Hoppa över registrering";
+"Register here" = "Registrera dig här";
+
+//Add new product
+
+"New Product"="Skapa produkt";
+"Description"="Beskrivning";
+"Title"="Titel";
+"Product saved." = "Produkten har sparats";
+"Barcode"="Streckkod";
+
+// THANK YOU SCREEN
+"Purchase Completed"="Köp genomfört";
+"Thank You"="Tack";
+"Tendered"="anbud";
+
+//payment Method screen
+"Payment Method"="Betalmetod";
+"Manual Entry"="Ange kortnummer manuellt";
+"Card Payment"="Kortbetalning";
+"Cash"="Kontant";
+"No card reader connected"="Ingen kortläsare ansluten";
+"Connect an ISUPOS card reader to accept easy card payments."="Anslut en ISUPOS kortterminal för att enkelt kunna ta emot kortbetalningar.";
+"Buy card reader"="Köp kortläsare";
+"Get help"="Få hjälp";
+"The receipt CTU server is not accepting the receipt"="Kvittot CTU-servern tar inte emot kvittot";
+"None"="Ingen";
+"Miura card reader connected"="Miura kortläsare som är ansluten";
+
+//custom amount screen
+
+"Custom Discount"="Anpassad Rabatt";
+"Custom Amount"="Anpassa belopp";
+"Please Enter Valid Email" = "Skriv in en giltig e-postadress";
+
+//Edit Product
+
+"Edit Product"="Redigera produkt";
+"Choose From Library" = "Välj Från biblioteket";
+"Take Photo" = "Ta ett foto";
+"Custom Unit" = "Anpassad Enhet";
+"Price per unit" = "Pris per enhet";
+"Delete" = "Radera";
+"Product Updated." = "Produkten har uppdaterats.";
+"Do you want to Remove Article?" = "Vill du ta bort artikel?";
+
+"Please enter Barcode"="Ange Barcode";
+"Barcode already exist"="Streckkod redan existerar";
+
+"Including VAT"="Inklusive moms";
+"No printer found."="Ingen skrivare hittades.";
+"Print"="Skriv ut";
+
+//UIAlertView
+
+"Please enter product title."="Ange produkttiteln.";
+"Please enter product description."="Ange produktbeskrivning.";
+"Please enter price"="Ange pris";
+"Price per unit"="Pris per enhet";
+"Please add atleast one variant."="Vänligen lägg till minst en variant.";
+"Unable to find a camera on your device."="Det går inte att hitta en kamera på enheten.";
+"Card payment method not available."="Kort betalningsmetod inte tillgänglig.";
+"Payment cancelled."="Betalning avbryts.";
+"Please enter units"="Ange enheter";
+"Error"="fel";
+//"Auto Connection function is available only when the security setting is \"SSP\”.""="Auto Connection funktion är endast tillgänglig när säkerhetsinställningen är \ "SSP \". "";
+"is invalid PIN Code"="är ogiltig PIN-kod";
+"The PIN Code is 4 to 16 digits."="PIN-koden är 4 till 16 siffror.";
+"Warning"="Varning";
+"iPhone and iPod touch cannot use Alphabet PIN code, iPad only can use."="iPhone och iPod touch kan inte använda alfabetet PIN-koden, iPad bara kan använda.";
+"Failed to open port."="Det gick inte att öppna porten.";
+"Failed to apply."="Det gick inte att gälla.";
+"Complete"="komplett";
+"To apply settings, please turn the device power OFF and ON, and established pairing again."="Om du vill använda inställningarna vänd enheten strömmen och ON, och etablerade parning igen.";
+
+"Printer Error"="Skrivare fel";
+"Write port timed out"="Skrivport timeout";
+"Printer Status"="Printer Status";
+"Get status failed"="Get status misslyckades";
+"Please enter all fields."="Ange alla områden.";
+"Discount is not more than 100%."="Rabatt är inte mer än 100%.";
+"Discount is not more than actual amount."="Rabatten är inte mer än faktiska beloppet.";
+"Please enter discount."="Ange rabatt.";
+"Fail to Open Port"="Misslyckas med att öppna port";
+"Firmware"="firmware";
+"Get firmware information failed"="Get informations fasta programvaran misslyckades";
+"Fail to Open Port"="Misslyckas med att öppna port";
+"Drawer Status"="låda Status";
+"Get status failed."="Få status misslyckades.";
+"Fail to Open Port"="Misslyckas med att öppna port";
+"Printer is offline"="Skrivaren är inte uppkopplad";
+"Sorry"="Förlåt";
+"Password did not match"="Lösenord matchade inte";
+"Please select variant."="Välj variant.";
+"Please enter units"="Ange enheter";
+"This function requires iOS6 or later."="Denna funktion kräver iOS6 eller senare.";
+"Failure"="misslyckande";
+
+"The password is incorrect. stop the process."="Lösenordet är felaktigt. stoppa processen.";
+"Please Input Password"="Vänligen Ange lösenord";
+"Select Interface"="Välj gränssnitt";
+"Select Port"="Välj Port";
+"This function requires iOS6 or later."="Denna funktion kräver iOS6 eller senare.";
+"Please check your internet connection."="Kontrollera din Internet-anslutning.";
+"Please enter username and password on settings screen."="Ange användarnamn och lösenord på inställningar.";
+"Get firmware information failed"="Get informations fasta programvaran misslyckades";
+"Unsupported"="ouppburen";
+"Cash Drawer is unsupported by portable printers"="Kassalåda stöds inte av bärbara skrivare";
+"Get status failed"="Get status misslyckades";
+"An error has occurred during printing."="Ett fel har inträffat under utskrift.";
+"Swipe a credit card"="Svep ett kreditkort";
+"Failed to read port"="Det gick inte att läsa port";
+"Already have products in cart. Do you want to exchange the cart."="Redan har produkter i kundvagnen. Vill du byta vagnen.";
+"Some error has occurred. Please check your Infrasec credntials"="Vissa fel har uppstått. Kontrollera dina Infrasec credntials";
+"This function is available via the bluetooth interface only."="Denna funktion är tillgänglig via Bluetooth-gränssnittet.";
+"initWithPortName:deviceType: is failure."="initWithPortName: deviceType: är fel.";
+"open is failure."="öppen är misslyckande.";
+"loadSetting is failure."="belastningsinställande är fel.";
+"Fail to Disconnect"="Kunde inte Koppla";
+"Please enter block title and article no."="Ange blockera titel och artikel nr.";
+"No match found"="Ingen träff";
+"Refund can't be undone"="Återbetalning kan inte ångras";
+"Please enter email and password for login."="Ange e-postadress och lösenord för inloggning.";
+"The email or password you entered is incorrect."="E-postadressen eller lösenordet du skrev in är inte korrekt.";
+"No Results Found."="Inga resultat funna.";
+"Edit" = "Redigera";
+
+//Receipt Format
+
+"Date"="Datum";
+"Time"="Tid";
+"SALE"="Rabatt";
+"ChargePay"="Kostnad";
+"Total"="Totalt";
+"Sign Here"="Signatur";
+
+//"Thank you for buying!"="Tack fîr att du handlar hos oss vÉxxlkommen Üter!";
+"Thank you for buying!"="Tack för att du handlar hos oss välkommen åter!";
+"Report Number"="Rapportnummer";
+"Number of total refunds:"="Totalt antal returer:";
+
+//"Grand total sales1"="Grand total sales";
+//"Total sale amount1:"="Totalt sale belopp:";
+//"Cash sale amount1:"="Kontant sale belopp:";
+//"Card sale amount1:"="Kort sale beloppet:";
+
+"Receipt email"="Mottagande e";
+"Receipt print"="Mottagande trycket";
+"Grand total sales"="Grand totala försäljningen";
+
+"Grand total refund"="Grand total returer";
+
+"Grand total sales-refund"="Grand total netto";
+
+"Products"="produkter";
+
+"Total sale amount:"="Totalt försäljningbelopp:";
+"Total products:"="Totalt produkter:";
+"Total receipts:"="Totalt kvitton:";
+"Number of receipts mailed:"="Antal kvitton e-post:";
+"Number of receipts printed:"="Antal kvitton som skrivs ut:";
+
+"Number of copies mailed:"="Antal kvittokopior e-post:";
+"Number of copies printed:"="Antal tryckta Kvitto:";
+
+"Total refunds:"="Totalt i retur:";
+"VAT:"="moms:";
+"Discounts:"="rabatter:";
+
+"Printed report of"="Av den utskrivna rapporten";
+"Emailed report of"="Rapporter om Mailas";
+
+
+"Cash sale amount:"="Kontant försäljningbelopp:";
+"Card sale amount:"="Kort försäljningbelopp:";
+"Swish sale amount:"="Swish försäljningbelopp:";
+"Other sale amount:"="Andra försäljningbelopp:";
+"Number of cash payments:"="Antal kontantbetalningar:";
+"Number of card payments:"="Antal kortbetalningar:";
+"Number of swish payments:"="Antal swishbetalningar:";
+"Number of other payments:"="Antal andrabetalningar:";
+
+
+"Emails" = "e-postmeddelanden";
+"Enable" = "Använd kontrollenhet";
+"Exchange" = "Utbyta";
+
+"Please enter valid price." = "Ange giltigt pris.";
+"Other" = "Andra";
+
+"Starting cash value:" = "Startar kontantvärde:";
+"Total amount in copies printed:" = "Totalt antal kopior som skrivs ut:";
+"Total amount in copies mailed:" = "Totalt antal i kopior som skickas:";

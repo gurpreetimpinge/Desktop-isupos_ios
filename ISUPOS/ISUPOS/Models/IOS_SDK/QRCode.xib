@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="8.00">
+	<data>
+		<int key="IBDocument.SystemTarget">1072</int>
+		<string key="IBDocument.SystemVersion">12E55</string>
+		<string key="IBDocument.InterfaceBuilderVersion">4510</string>
+		<string key="IBDocument.AppKitVersion">1187.39</string>
+		<string key="IBDocument.HIToolboxVersion">626.00</string>
+		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+			<string key="NS.object.0">3742</string>
+		</object>
+		<array key="IBDocument.IntegratedClassDependencies">
+			<string>IBProxyObject</string>
+			<string>IBUIButton</string>
+			<string>IBUIImageView</string>
+			<string>IBUILabel</string>
+			<string>IBUITextField</string>
+			<string>IBUIView</string>
+		</array>
+		<array key="IBDocument.PluginDependencies">
+			<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+		</array>
+		<object class="NSMutableDictionary" key="IBDocument.Metadata">
+			<string key="NS.key.0">PluginDependencyRecalculationVersion</string>
+			<integer value="1" key="NS.object.0"/>
+		</object>
+		<array class="NSMutableArray" key="IBDocument.RootObjects" id="1000">
+			<object class="IBProxyObject" id="372490531">
+				<string key="IBProxiedObjectIdentifier">IBFilesOwner</string>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+			<object class="IBProxyObject" id="975951072">
+				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+			<object class="IBUIView" id="191373211">
+				<reference key="NSNextResponder"/>
+				<int key="NSvFlags">274</int>
+				<array class="NSMutableArray" key="NSSubviews">
+					<object class="IBUIView" id="136318129">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">274</int>
+						<string key="NSFrameSize">{320, 460}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<string key="NSReuseIdentifierKey">_NS:9</string>
+						<object class="NSColor" key="IBUIBackgroundColor">
+							<int key="NSColorSpace">3</int>
+							<bytes key="NSWhite">MCAwAA</bytes>
+						</object>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+					</object>
+					<object class="IBUIButton" id="452207393">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">268</int>
+						<string key="NSFrame">{{0, 424}, {72, 37}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="78351252"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<int key="IBUIContentHorizontalAlignment">0</int>
+						<int key="IBUIContentVerticalAlignment">0</int>
+						<int key="IBUIButtonType">1</int>
+						<object class="NSColor" key="IBUINormalTitleColor" id="768782379">
+							<int key="NSColorSpace">1</int>
+							<bytes key="NSRGB">MC4xOTYwNzg0MzE0IDAuMzA5ODAzOTIxNiAwLjUyMTU2ODYyNzUAA</bytes>
+						</object>
+						<object class="NSColor" key="IBUIHighlightedTitleColor" id="346969132">
+							<int key="NSColorSpace">3</int>
+							<bytes key="NSWhite">MQA</bytes>
+						</object>
+						<string key="IBUINormalTitle">Back</string>
+						<object class="NSColor" key="IBUINormalTitleShadowColor" id="13608892">
+							<int key="NSColorSpace">3</int>
+							<bytes key="NSWhite">MC41AA</bytes>
+						</object>
+						<object class="IBUIFontDescription" key="IBUIFontDescription" id="44232259">
+							<string key="name">Helvetica-Bold</string>
+							<string key="family">Helvetica</string>
+							<int key="traits">2</int>
+							<double key="pointSize">15</double>
+						</object>
+						<object class="NSFont" key="IBUIFont" id="530494745">
+							<string key="NSName">Helvetica-Bold</string>
+							<double key="NSSize">15</double>
+							<int key="NSfFlags">16</int>
+						</object>
+					</object>
+					<object class="IBUIButton" id="78351252">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">265</int>
+						<string key="NSFrame">{{168, 424}, {72, 37}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="832377121"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<int key="IBUIContentHorizontalAlignment">0</int>
+						<int key="IBUIContentVerticalAlignment">0</int>
+						<int key="IBUIButtonType">1</int>
+						<reference key="IBUINormalTitleColor" ref="768782379"/>
+						<reference key="IBUIHighlightedTitleColor" ref="346969132"/>
+						<string key="IBUINormalTitle">Help</string>
+						<reference key="IBUINormalTitleShadowColor" ref="13608892"/>
+						<reference key="IBUIFontDescription" ref="44232259"/>
+						<reference key="IBUIFont" ref="530494745"/>
+					</object>
+					<object class="IBUIButton" id="832377121">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">265</int>
+						<string key="NSFrame">{{248, 424}, {72, 37}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<int key="IBUIContentHorizontalAlignment">0</int>
+						<int key="IBUIContentVerticalAlignment">0</int>
+						<int key="IBUIButtonType">1</int>
+						<reference key="IBUINormalTitleColor" ref="768782379"/>
+						<reference key="IBUIHighlightedTitleColor" ref="346969132"/>
+						<string key="IBUINormalTitle">Print</string>
+						<reference key="IBUINormalTitleShadowColor" ref="13608892"/>
+						<reference key="IBUIFontDescription" ref="44232259"/>
+						<reference key="IBUIFont" ref="530494745"/>
+					</object>
+					<object class="IBUIButton" id="640555029">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">290</int>
+						<string key="NSFrame">{{0, 312}, {320, 31}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="452207393"/>
+						<string key="NSReuseIdentifierKey">_NS:9</string>
+						<bool key="IBUIOpaque">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<int key="IBUIContentHorizontalAlignment">0</int>
+						<int key="IBUIContentVerticalAlignment">0</int>
+						<int key="IBUIButtonType">1</int>
+						<reference key="IBUINormalTitleColor" ref="768782379"/>
+						<reference key="IBUIHighlightedTitleColor" ref="346969132"/>
+						<string key="IBUINormalTitle">Button</string>
+						<reference key="IBUINormalTitleShadowColor" ref="13608892"/>
+						<object class="IBUIFontDescription" key="IBUIFontDescription" id="618606317">
+							<int key="type">2</int>
+							<double key="pointSize">15</double>
+						</object>
+						<object class="NSFont" key="IBUIFont" id="995825363">
+							<string key="NSName">HelveticaNeue-Bold</string>
+							<double key="NSSize">15</double>
+							<int key="NSfFlags">16</int>
+						</object>
+					</object>
+					<object class="IBUILabel" id="437588616">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">290</int>
+						<string key="NSFrame">{{0, 288}, {320, 21}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="640555029"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">7</int>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<string key="IBUIText">Cell Size</string>
+						<object class="NSColor" key="IBUITextColor" id="11137885">
+							<int key="NSColorSpace">1</int>
+							<bytes key="NSRGB">MCAwIDAAA</bytes>
+							<string key="IBUIColorCocoaTouchKeyPath">darkTextColor</string>
+						</object>
+						<nil key="IBUIHighlightedColor"/>
+						<int key="IBUIBaselineAdjustment">1</int>
+						<float key="IBUIMinimumFontSize">10</float>
+						<object class="IBUIFontDescription" key="IBUIFontDescription" id="5698956">
+							<string key="name">Helvetica</string>
+							<string key="family">Helvetica</string>
+							<int key="traits">0</int>
+							<double key="pointSize">17</double>
+						</object>
+						<object class="NSFont" key="IBUIFont" id="261637969">
+							<string key="NSName">Helvetica</string>
+							<double key="NSSize">17</double>
+							<int key="NSfFlags">16</int>
+						</object>
+					</object>
+					<object class="IBUIButton" id="998036388">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">290</int>
+						<string key="NSFrame">{{0, 252}, {320, 31}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="437588616"/>
+						<string key="NSReuseIdentifierKey">_NS:9</string>
+						<bool key="IBUIOpaque">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<int key="IBUIContentHorizontalAlignment">0</int>
+						<int key="IBUIContentVerticalAlignment">0</int>
+						<int key="IBUIButtonType">1</int>
+						<reference key="IBUINormalTitleColor" ref="768782379"/>
+						<reference key="IBUIHighlightedTitleColor" ref="346969132"/>
+						<string key="IBUINormalTitle">Button</string>
+						<reference key="IBUINormalTitleShadowColor" ref="13608892"/>
+						<reference key="IBUIFontDescription" ref="618606317"/>
+						<reference key="IBUIFont" ref="995825363"/>
+					</object>
+					<object class="IBUILabel" id="556378666">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">292</int>
+						<string key="NSFrame">{{0, 228}, {47, 21}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="998036388"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">7</int>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<string key="IBUIText">Model</string>
+						<reference key="IBUITextColor" ref="11137885"/>
+						<nil key="IBUIHighlightedColor"/>
+						<int key="IBUIBaselineAdjustment">1</int>
+						<float key="IBUIMinimumFontSize">10</float>
+						<reference key="IBUIFontDescription" ref="5698956"/>
+						<reference key="IBUIFont" ref="261637969"/>
+					</object>
+					<object class="IBUIButton" id="681315919">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">290</int>
+						<string key="NSFrame">{{0, 192}, {320, 31}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="556378666"/>
+						<string key="NSReuseIdentifierKey">_NS:9</string>
+						<bool key="IBUIOpaque">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<int key="IBUIContentHorizontalAlignment">0</int>
+						<int key="IBUIContentVerticalAlignment">0</int>
+						<int key="IBUIButtonType">1</int>
+						<reference key="IBUINormalTitleColor" ref="768782379"/>
+						<reference key="IBUIHighlightedTitleColor" ref="346969132"/>
+						<string key="IBUINormalTitle">Button</string>
+						<reference key="IBUINormalTitleShadowColor" ref="13608892"/>
+						<reference key="IBUIFontDescription" ref="618606317"/>
+						<reference key="IBUIFont" ref="995825363"/>
+					</object>
+					<object class="IBUILabel" id="491931555">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">290</int>
+						<string key="NSFrame">{{0, 168}, {167, 21}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="681315919"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">7</int>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<string key="IBUIText">Error Correction Level</string>
+						<reference key="IBUITextColor" ref="11137885"/>
+						<nil key="IBUIHighlightedColor"/>
+						<int key="IBUIBaselineAdjustment">1</int>
+						<float key="IBUIMinimumFontSize">10</float>
+						<reference key="IBUIFontDescription" ref="5698956"/>
+						<reference key="IBUIFont" ref="261637969"/>
+					</object>
+					<object class="IBUITextField" id="45404269">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">290</int>
+						<string key="NSFrame">{{0, 132}, {320, 31}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="491931555"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<int key="IBUIContentVerticalAlignment">0</int>
+						<string key="IBUIText">http://www.StarMicronics.com</string>
+						<int key="IBUIBorderStyle">3</int>
+						<object class="NSColor" key="IBUITextColor">
+							<int key="NSColorSpace">3</int>
+							<bytes key="NSWhite">MAA</bytes>
+							<object class="NSColorSpace" key="NSCustomColorSpace" id="646979937">
+								<int key="NSID">2</int>
+							</object>
+						</object>
+						<bool key="IBUIAdjustsFontSizeToFit">YES</bool>
+						<float key="IBUIMinimumFontSize">17</float>
+						<object class="IBUITextInputTraits" key="IBUITextInputTraits">
+							<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						</object>
+						<object class="IBUIFontDescription" key="IBUIFontDescription">
+							<string key="name">Helvetica</string>
+							<string key="family">Helvetica</string>
+							<int key="traits">0</int>
+							<double key="pointSize">12</double>
+						</object>
+						<object class="NSFont" key="IBUIFont">
+							<string key="NSName">Helvetica</string>
+							<double key="NSSize">12</double>
+							<int key="NSfFlags">16</int>
+						</object>
+					</object>
+					<object class="IBUILabel" id="453622189">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">292</int>
+						<string key="NSFrame">{{0, 108}, {105, 21}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="45404269"/>
+						<bool key="IBUIOpaque">NO</bool>
+						<bool key="IBUIClipsSubviews">YES</bool>
+						<int key="IBUIContentMode">7</int>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+						<string key="IBUIText">Barcode Data</string>
+						<reference key="IBUITextColor" ref="11137885"/>
+						<nil key="IBUIHighlightedColor"/>
+						<int key="IBUIBaselineAdjustment">1</int>
+						<float key="IBUIMinimumFontSize">10</float>
+						<reference key="IBUIFontDescription" ref="5698956"/>
+						<reference key="IBUIFont" ref="261637969"/>
+					</object>
+					<object class="IBUIImageView" id="19826482">
+						<reference key="NSNextResponder" ref="191373211"/>
+						<int key="NSvFlags">293</int>
+						<string key="NSFrame">{{120, 20}, {80, 80}}</string>
+						<reference key="NSSuperview" ref="191373211"/>
+						<reference key="NSWindow"/>
+						<reference key="NSNextKeyView" ref="453622189"/>
+						<bool key="IBUIUserInteractionEnabled">NO</bool>
+						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+					</object>
+				</array>
+				<string key="NSFrame">{{0, 20}, {320, 460}}</string>
+				<reference key="NSSuperview"/>
+				<reference key="NSWindow"/>
+				<reference key="NSNextKeyView" ref="19826482"/>
+				<object class="NSColor" key="IBUIBackgroundColor">
+					<int key="NSColorSpace">3</int>
+					<bytes key="NSWhite">MQA</bytes>
+					<reference key="NSCustomColorSpace" ref="646979937"/>
+				</object>
+				<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics"/>
+				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+			</object>
+		</array>
+		<object class="IBObjectContainer" key="IBDocument.Objects">
+			<bool key="usesAutoincrementingIDs">NO</bool>
+			<array class="NSMutableArray" key="connectionRecords">
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">view</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="191373211"/>
+					</object>
+					<string key="id">3</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">buttonCell</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="640555029"/>
+					</object>
+					<string key="id">33</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">buttonModel</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="998036388"/>
+					</object>
+					<string key="id">31</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">buttonCorrection</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="681315919"/>
+					</object>
+					<string key="id">29</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">uitextfield_data</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="45404269"/>
+					</object>
+					<string key="id">36</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">uiimageview_barcode</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="19826482"/>
+					</object>
+					<string key="id">35</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">uiview_block</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="136318129"/>
+					</object>
+					<string key="id">38</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">uilabel_cellsize</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="437588616"/>
+					</object>
+					<string key="id">39</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">buttonBack</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="452207393"/>
+					</object>
+					<string key="id">rfw-mg-H6C</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">buttonHelp</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="78351252"/>
+					</object>
+					<string key="id">NnB-LC-6Jg</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchOutletConnection" key="connection">
+						<string key="label">buttonPrint</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="832377121"/>
+					</object>
+					<string key="id">DJc-bF-7jL</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">printQrcode</string>
+						<reference key="source" ref="832377121"/>
+						<reference key="destination" ref="975951072"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<string key="id">23</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">backQrcode</string>
+						<reference key="source" ref="452207393"/>
+						<reference key="destination" ref="975951072"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<string key="id">22</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">showHelp</string>
+						<reference key="source" ref="78351252"/>
+						<reference key="destination" ref="975951072"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<string key="id">25</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">selectCorrection:</string>
+						<reference key="source" ref="681315919"/>
+						<reference key="destination" ref="372490531"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<string key="id">30</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">selectModel:</string>
+						<reference key="source" ref="998036388"/>
+						<reference key="destination" ref="372490531"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<string key="id">32</string>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBCocoaTouchEventConnection" key="connection">
+						<string key="label">selectCell:</string>
+						<reference key="source" ref="640555029"/>
+						<reference key="destination" ref="372490531"/>
+						<int key="IBEventType">7</int>
+					</object>
+					<string key="id">34</string>
+				</object>
+			</array>
+			<object class="IBMutableOrderedSet" key="objectRecords">
+				<array key="orderedObjects">
+					<object class="IBObjectRecord">
+						<string key="id">0</string>
+						<array key="object" id="0"/>
+						<reference key="children" ref="1000"/>
+						<nil key="parent"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">1</string>
+						<reference key="object" ref="191373211"/>
+						<array class="NSMutableArray" key="children">
+							<reference ref="452207393"/>
+							<reference ref="78351252"/>
+							<reference ref="832377121"/>
+							<reference ref="136318129"/>
+							<reference ref="640555029"/>
+							<reference ref="437588616"/>
+							<reference ref="998036388"/>
+							<reference ref="556378666"/>
+							<reference ref="681315919"/>
+							<reference ref="491931555"/>
+							<reference ref="45404269"/>
+							<reference ref="453622189"/>
+							<reference ref="19826482"/>
+						</array>
+						<reference key="parent" ref="0"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">-1</string>
+						<reference key="object" ref="372490531"/>
+						<reference key="parent" ref="0"/>
+						<string key="objectName">File's Owner</string>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">-2</string>
+						<reference key="object" ref="975951072"/>
+						<reference key="parent" ref="0"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">15</string>
+						<reference key="object" ref="452207393"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">24</string>
+						<reference key="object" ref="78351252"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">14</string>
+						<reference key="object" ref="832377121"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">28</string>
+						<reference key="object" ref="640555029"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">10</string>
+						<reference key="object" ref="437588616"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">27</string>
+						<reference key="object" ref="998036388"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">8</string>
+						<reference key="object" ref="556378666"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">26</string>
+						<reference key="object" ref="681315919"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">6</string>
+						<reference key="object" ref="491931555"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">13</string>
+						<reference key="object" ref="45404269"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">12</string>
+						<reference key="object" ref="453622189"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">5</string>
+						<reference key="object" ref="19826482"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+					<object class="IBObjectRecord">
+						<string key="id">37</string>
+						<reference key="object" ref="136318129"/>
+						<reference key="parent" ref="191373211"/>
+					</object>
+				</array>
+			</object>
+			<dictionary class="NSMutableDictionary" key="flattenedProperties">
+				<string key="-1.CustomClassName">QRCode</string>
+				<string key="-1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="-2.CustomClassName">UIResponder</string>
+				<string key="-2.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="1.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="10.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="12.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="13.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="14.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="15.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="24.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="26.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="27.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="28.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="37.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="5.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="6.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+				<string key="8.IBPluginDependency">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+			</dictionary>
+			<dictionary class="NSMutableDictionary" key="unlocalizedProperties"/>
+			<nil key="activeLocalization"/>
+			<dictionary class="NSMutableDictionary" key="localizations"/>
+			<nil key="sourceID"/>
+		</object>
+		<object class="IBClassDescriber" key="IBDocument.Classes">
+			<array class="NSMutableArray" key="referencedPartialClassDescriptions">
+				<object class="IBPartialClassDescription">
+					<string key="className">BarcodePrintingMini</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backBarcodeMini">id</string>
+						<string key="printBarcode">id</string>
+						<string key="selectType:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backBarcodeMini">
+							<string key="name">backBarcodeMini</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printBarcode">
+							<string key="name">printBarcode</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectType:">
+							<string key="name">selectType:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonType">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uitextfield_height">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonType">
+							<string key="name">buttonType</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_height">
+							<string key="name">uitextfield_height</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/BarcodePrintingMini.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">Cut</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backCut">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backCut">
+							<string key="name">backCut</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="tableviewCut">UITableView</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="tableviewCut">
+							<string key="name">tableviewCut</string>
+							<string key="candidateClassName">UITableView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/Cut.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">IOS_SDKViewControllerLineMode</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="pushButtonBack:">id</string>
+						<string key="pushButtonSearch:">id</string>
+						<string key="selectPort:">id</string>
+						<string key="selectSensorActive:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="pushButtonBack:">
+							<string key="name">pushButtonBack:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="pushButtonSearch:">
+							<string key="name">pushButtonSearch:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectPort:">
+							<string key="name">selectPort:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectSensorActive:">
+							<string key="name">selectSensorActive:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="blockView">UIView</string>
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPort">UIButton</string>
+						<string key="buttonSearch">UIButton</string>
+						<string key="buttonSensorActive">UIButton</string>
+						<string key="tableviewFunction">UITableView</string>
+						<string key="uitextfield_portname">UITextField</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="blockView">
+							<string key="name">blockView</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPort">
+							<string key="name">buttonPort</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonSearch">
+							<string key="name">buttonSearch</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonSensorActive">
+							<string key="name">buttonSensorActive</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="tableviewFunction">
+							<string key="name">tableviewFunction</string>
+							<string key="candidateClassName">UITableView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_portname">
+							<string key="name">uitextfield_portname</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/IOS_SDKViewControllerLineMode.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">IOS_SDKViewControllerPortable</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="pushButtonBack:">id</string>
+						<string key="pushButtonSearch:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="pushButtonBack:">
+							<string key="name">pushButtonBack:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="pushButtonSearch:">
+							<string key="name">pushButtonSearch:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonSearch">UIButton</string>
+						<string key="tableviewFunction">UITableView</string>
+						<string key="uitextfield_portname">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonSearch">
+							<string key="name">buttonSearch</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="tableviewFunction">
+							<string key="name">tableviewFunction</string>
+							<string key="candidateClassName">UITableView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_portname">
+							<string key="name">uitextfield_portname</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/IOS_SDKViewControllerPortable.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">IOS_SDKViewControllerRasterMode</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="pushButtonBack:">id</string>
+						<string key="pushButtonSearch:">id</string>
+						<string key="selectPort:">id</string>
+						<string key="selectSensorActive:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="pushButtonBack:">
+							<string key="name">pushButtonBack:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="pushButtonSearch:">
+							<string key="name">pushButtonSearch:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectPort:">
+							<string key="name">selectPort:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectSensorActive:">
+							<string key="name">selectSensorActive:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPort">UIButton</string>
+						<string key="buttonSearch">UIButton</string>
+						<string key="buttonSensorActive">UIButton</string>
+						<string key="tableviewFunction">UITableView</string>
+						<string key="uitextfield_portname">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPort">
+							<string key="name">buttonPort</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonSearch">
+							<string key="name">buttonSearch</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonSensorActive">
+							<string key="name">buttonSensorActive</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="tableviewFunction">
+							<string key="name">tableviewFunction</string>
+							<string key="candidateClassName">UITableView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_portname">
+							<string key="name">uitextfield_portname</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/IOS_SDKViewControllerRasterMode.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">ITF</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backITF">id</string>
+						<string key="printBarcodeITF">id</string>
+						<string key="selectLayout:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backITF">
+							<string key="name">backITF</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printBarcodeITF">
+							<string key="name">printBarcodeITF</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectLayout:">
+							<string key="name">selectLayout:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonLayout">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uiimageview_barcode">UIImageView</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uitextfield_height">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonLayout">
+							<string key="name">buttonLayout</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiimageview_barcode">
+							<string key="name">uiimageview_barcode</string>
+							<string key="candidateClassName">UIImageView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_height">
+							<string key="name">uitextfield_height</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/ITF.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">JpKnjFormating</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="PrintText">id</string>
+						<string key="backTextFormating">id</string>
+						<string key="selectAlignment:">id</string>
+						<string key="selectHeight:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="PrintText">
+							<string key="name">PrintText</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="backTextFormating">
+							<string key="name">backTextFormating</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectAlignment:">
+							<string key="name">selectAlignment:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectHeight:">
+							<string key="name">selectHeight:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonAlignment">UIButton</string>
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHeight">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uiscrollview_main">UIScrollView</string>
+						<string key="uisegment_kanjiMode">UISegmentedControl</string>
+						<string key="uiswitch_emphasized">UISwitch</string>
+						<string key="uiswitch_invertcolor">UISwitch</string>
+						<string key="uiswitch_underline">UISwitch</string>
+						<string key="uiswitch_upperline">UISwitch</string>
+						<string key="uiswitch_upsizeDown">UISwitch</string>
+						<string key="uitextfield_leftMargin">UITextField</string>
+						<string key="uitextview_texttoprint">UITextView</string>
+						<string key="uiview_block">UIView</string>
+						<string key="uiview_main">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonAlignment">
+							<string key="name">buttonAlignment</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHeight">
+							<string key="name">buttonHeight</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiscrollview_main">
+							<string key="name">uiscrollview_main</string>
+							<string key="candidateClassName">UIScrollView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uisegment_kanjiMode">
+							<string key="name">uisegment_kanjiMode</string>
+							<string key="candidateClassName">UISegmentedControl</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_emphasized">
+							<string key="name">uiswitch_emphasized</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_invertcolor">
+							<string key="name">uiswitch_invertcolor</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_underline">
+							<string key="name">uiswitch_underline</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_upperline">
+							<string key="name">uiswitch_upperline</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_upsizeDown">
+							<string key="name">uiswitch_upsizeDown</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_leftMargin">
+							<string key="name">uitextfield_leftMargin</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextview_texttoprint">
+							<string key="name">uitextview_texttoprint</string>
+							<string key="candidateClassName">UITextView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_main">
+							<string key="name">uiview_main</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/JpKnjFormating.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">JpKnjFormatingMini</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backTextFormating">id</string>
+						<string key="printTextFormating">id</string>
+						<string key="selectAlignment:">id</string>
+						<string key="selectHeight:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backTextFormating">
+							<string key="name">backTextFormating</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printTextFormating">
+							<string key="name">printTextFormating</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectAlignment:">
+							<string key="name">selectAlignment:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectHeight:">
+							<string key="name">selectHeight:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonAlignment">UIButton</string>
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHeight">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uiscrollview_main">UIScrollView</string>
+						<string key="uiswitch_emphasized">UISwitch</string>
+						<string key="uiswitch_invertcolor">UISwitch</string>
+						<string key="uiswitch_underline">UISwitch</string>
+						<string key="uiswitch_upsizeddown">UISwitch</string>
+						<string key="uitextfield_leftMargin">UITextField</string>
+						<string key="uitextview_texttoprint">UITextView</string>
+						<string key="uiview_block">UIView</string>
+						<string key="uiview_main">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonAlignment">
+							<string key="name">buttonAlignment</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHeight">
+							<string key="name">buttonHeight</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiscrollview_main">
+							<string key="name">uiscrollview_main</string>
+							<string key="candidateClassName">UIScrollView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_emphasized">
+							<string key="name">uiswitch_emphasized</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_invertcolor">
+							<string key="name">uiswitch_invertcolor</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_underline">
+							<string key="name">uiswitch_underline</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_upsizeddown">
+							<string key="name">uiswitch_upsizeddown</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_leftMargin">
+							<string key="name">uitextfield_leftMargin</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextview_texttoprint">
+							<string key="name">uitextview_texttoprint</string>
+							<string key="candidateClassName">UITextView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_main">
+							<string key="name">uiview_main</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/JpKnjFormatingMini.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">PDF417</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backPDF417">id</string>
+						<string key="printBarcode">id</string>
+						<string key="selectDirection:">id</string>
+						<string key="selectLimit:">id</string>
+						<string key="selectRatio:">id</string>
+						<string key="selectSecurity:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backPDF417">
+							<string key="name">backPDF417</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printBarcode">
+							<string key="name">printBarcode</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectDirection:">
+							<string key="name">selectDirection:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectLimit:">
+							<string key="name">selectLimit:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectRatio:">
+							<string key="name">selectRatio:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectSecurity:">
+							<string key="name">selectSecurity:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonDirection">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonLimit">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonRatio">UIButton</string>
+						<string key="buttonSecurity">UIButton</string>
+						<string key="uiimageview_barcode">UIImageView</string>
+						<string key="uilabel_height">UILabel</string>
+						<string key="uilabel_width">UILabel</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uitextfield_height">UITextField</string>
+						<string key="uitextfield_width">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonDirection">
+							<string key="name">buttonDirection</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonLimit">
+							<string key="name">buttonLimit</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonRatio">
+							<string key="name">buttonRatio</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonSecurity">
+							<string key="name">buttonSecurity</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiimageview_barcode">
+							<string key="name">uiimageview_barcode</string>
+							<string key="candidateClassName">UIImageView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uilabel_height">
+							<string key="name">uilabel_height</string>
+							<string key="candidateClassName">UILabel</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uilabel_width">
+							<string key="name">uilabel_width</string>
+							<string key="candidateClassName">UILabel</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_height">
+							<string key="name">uitextfield_height</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_width">
+							<string key="name">uitextfield_width</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/PDF417.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">PDF417mini</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backPDF417">id</string>
+						<string key="printPDF417">id</string>
+						<string key="selectColumn:">id</string>
+						<string key="selectRatio:">id</string>
+						<string key="selectSecurity:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backPDF417">
+							<string key="name">backPDF417</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printPDF417">
+							<string key="name">printPDF417</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectColumn:">
+							<string key="name">selectColumn:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectRatio:">
+							<string key="name">selectRatio:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectSecurity:">
+							<string key="name">selectSecurity:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonColumn">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonRatio">UIButton</string>
+						<string key="buttonSecurity">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonColumn">
+							<string key="name">buttonColumn</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonRatio">
+							<string key="name">buttonRatio</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonSecurity">
+							<string key="name">buttonSecurity</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/PDF417mini.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">QRCode</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backQrcode">id</string>
+						<string key="printQrcode">id</string>
+						<string key="selectCell:">id</string>
+						<string key="selectCorrection:">id</string>
+						<string key="selectModel:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backQrcode">
+							<string key="name">backQrcode</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printQrcode">
+							<string key="name">printQrcode</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectCell:">
+							<string key="name">selectCell:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectCorrection:">
+							<string key="name">selectCorrection:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectModel:">
+							<string key="name">selectModel:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonCell">UIButton</string>
+						<string key="buttonCorrection">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonModel">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="uiimageview_barcode">UIImageView</string>
+						<string key="uilabel_cellsize">UILabel</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonCell">
+							<string key="name">buttonCell</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonCorrection">
+							<string key="name">buttonCorrection</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonModel">
+							<string key="name">buttonModel</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiimageview_barcode">
+							<string key="name">uiimageview_barcode</string>
+							<string key="candidateClassName">UIImageView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uilabel_cellsize">
+							<string key="name">uilabel_cellsize</string>
+							<string key="candidateClassName">UILabel</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/QRCode.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">QRCodeMini</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backQRCode">id</string>
+						<string key="printQRCode">id</string>
+						<string key="selectCode:">id</string>
+						<string key="selectCorrection:">id</string>
+						<string key="selectModule:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backQRCode">
+							<string key="name">backQRCode</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printQRCode">
+							<string key="name">printQRCode</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectCode:">
+							<string key="name">selectCode:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectCorrection:">
+							<string key="name">selectCorrection:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectModule:">
+							<string key="name">selectModule:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonCode">UIButton</string>
+						<string key="buttonCorrection">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonModule">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonCode">
+							<string key="name">buttonCode</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonCorrection">
+							<string key="name">buttonCorrection</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonModule">
+							<string key="name">buttonModule</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/QRCodeMini.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">TextFormating</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="PrintText">id</string>
+						<string key="backTextFormating">id</string>
+						<string key="selectAlignment:">id</string>
+						<string key="selectHeight:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="PrintText">
+							<string key="name">PrintText</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="backTextFormating">
+							<string key="name">backTextFormating</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectAlignment:">
+							<string key="name">selectAlignment:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectHeight:">
+							<string key="name">selectHeight:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonAlignment">UIButton</string>
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHeight">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uiscrollview_main">UIScrollView</string>
+						<string key="uiswitch_emphasized">UISwitch</string>
+						<string key="uiswitch_invertcolor">UISwitch</string>
+						<string key="uiswitch_slashedZero">UISwitch</string>
+						<string key="uiswitch_underline">UISwitch</string>
+						<string key="uiswitch_upperline">UISwitch</string>
+						<string key="uiswitch_upsizeDown">UISwitch</string>
+						<string key="uitextfield_leftMargin">UITextField</string>
+						<string key="uitextview_texttoprint">UITextView</string>
+						<string key="uiview_block">UIView</string>
+						<string key="uiview_main">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonAlignment">
+							<string key="name">buttonAlignment</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHeight">
+							<string key="name">buttonHeight</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiscrollview_main">
+							<string key="name">uiscrollview_main</string>
+							<string key="candidateClassName">UIScrollView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_emphasized">
+							<string key="name">uiswitch_emphasized</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_invertcolor">
+							<string key="name">uiswitch_invertcolor</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_slashedZero">
+							<string key="name">uiswitch_slashedZero</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_underline">
+							<string key="name">uiswitch_underline</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_upperline">
+							<string key="name">uiswitch_upperline</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_upsizeDown">
+							<string key="name">uiswitch_upsizeDown</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_leftMargin">
+							<string key="name">uitextfield_leftMargin</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextview_texttoprint">
+							<string key="name">uitextview_texttoprint</string>
+							<string key="candidateClassName">UITextView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_main">
+							<string key="name">uiview_main</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/TextFormating.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">TextFormatingMini</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backTextFormating">id</string>
+						<string key="printTextFormating">id</string>
+						<string key="selectAlignment:">id</string>
+						<string key="selectHeight:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backTextFormating">
+							<string key="name">backTextFormating</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printTextFormating">
+							<string key="name">printTextFormating</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectAlignment:">
+							<string key="name">selectAlignment:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectHeight:">
+							<string key="name">selectHeight:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonAlignment">UIButton</string>
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHeight">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uiscrollview_main">UIScrollView</string>
+						<string key="uiswitch_emphasized">UISwitch</string>
+						<string key="uiswitch_invertcolor">UISwitch</string>
+						<string key="uiswitch_underline">UISwitch</string>
+						<string key="uiswitch_upsizeddown">UISwitch</string>
+						<string key="uitextfield_leftMargin">UITextField</string>
+						<string key="uitextview_texttoprint">UITextView</string>
+						<string key="uiview_block">UIView</string>
+						<string key="uiview_main">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonAlignment">
+							<string key="name">buttonAlignment</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHeight">
+							<string key="name">buttonHeight</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiscrollview_main">
+							<string key="name">uiscrollview_main</string>
+							<string key="candidateClassName">UIScrollView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_emphasized">
+							<string key="name">uiswitch_emphasized</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_invertcolor">
+							<string key="name">uiswitch_invertcolor</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_underline">
+							<string key="name">uiswitch_underline</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiswitch_upsizeddown">
+							<string key="name">uiswitch_upsizeddown</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_leftMargin">
+							<string key="name">uitextfield_leftMargin</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextview_texttoprint">
+							<string key="name">uitextview_texttoprint</string>
+							<string key="candidateClassName">UITextView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_main">
+							<string key="name">uiview_main</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/TextFormatingMini.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">code128</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backCode128">id</string>
+						<string key="printBarcode128">id</string>
+						<string key="selectLayout:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backCode128">
+							<string key="name">backCode128</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printBarcode128">
+							<string key="name">printBarcode128</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectLayout:">
+							<string key="name">selectLayout:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonLayout">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uiimageview_barcode">UIImageView</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uitextfield_height">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonLayout">
+							<string key="name">buttonLayout</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiimageview_barcode">
+							<string key="name">uiimageview_barcode</string>
+							<string key="candidateClassName">UIImageView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_height">
+							<string key="name">uitextfield_height</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/code128.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">code39</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backCode39">id</string>
+						<string key="printBarCode">id</string>
+						<string key="selectLayout:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backCode39">
+							<string key="name">backCode39</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printBarCode">
+							<string key="name">printBarCode</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectLayout:">
+							<string key="name">selectLayout:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonLayout">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uiimageview_barcode">UIImageView</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uitextfield_height">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonLayout">
+							<string key="name">buttonLayout</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiimageview_barcode">
+							<string key="name">uiimageview_barcode</string>
+							<string key="candidateClassName">UIImageView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_height">
+							<string key="name">uitextfield_height</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/code39.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">code93</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backCode93">id</string>
+						<string key="printBarCode">id</string>
+						<string key="selectLayout:">id</string>
+						<string key="selectWidth:">id</string>
+						<string key="showHelp">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backCode93">
+							<string key="name">backCode93</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printBarCode">
+							<string key="name">printBarCode</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectLayout:">
+							<string key="name">selectLayout:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectWidth:">
+							<string key="name">selectWidth:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="showHelp">
+							<string key="name">showHelp</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonLayout">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonWidth">UIButton</string>
+						<string key="uiimageview_barcode">UIImageView</string>
+						<string key="uitextfield_data">UITextField</string>
+						<string key="uitextfield_height">UITextField</string>
+						<string key="uiview_block">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonLayout">
+							<string key="name">buttonLayout</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonWidth">
+							<string key="name">buttonWidth</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiimageview_barcode">
+							<string key="name">uiimageview_barcode</string>
+							<string key="candidateClassName">UIImageView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_data">
+							<string key="name">uitextfield_data</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_height">
+							<string key="name">uitextfield_height</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/code93.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">rasterPrinting</string>
+					<string key="superclassName">UIViewController</string>
+					<dictionary class="NSMutableDictionary" key="actions">
+						<string key="backRasterPrinting">id</string>
+						<string key="printRasterText">id</string>
+						<string key="selectFont:">id</string>
+						<string key="selectFontStyle:">id</string>
+						<string key="selectPrinterSize:">id</string>
+						<string key="sizeChanged">id</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="actionInfosByName">
+						<object class="IBActionInfo" key="backRasterPrinting">
+							<string key="name">backRasterPrinting</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="printRasterText">
+							<string key="name">printRasterText</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectFont:">
+							<string key="name">selectFont:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectFontStyle:">
+							<string key="name">selectFontStyle:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="selectPrinterSize:">
+							<string key="name">selectPrinterSize:</string>
+							<string key="candidateClassName">id</string>
+						</object>
+						<object class="IBActionInfo" key="sizeChanged">
+							<string key="name">sizeChanged</string>
+							<string key="candidateClassName">id</string>
+						</object>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="outlets">
+						<string key="buttonBack">UIButton</string>
+						<string key="buttonFont">UIButton</string>
+						<string key="buttonFontStyle">UIButton</string>
+						<string key="buttonHelp">UIButton</string>
+						<string key="buttonPrint">UIButton</string>
+						<string key="buttonPrinterSize">UIButton</string>
+						<string key="labelCompression">UILabel</string>
+						<string key="labelPageMode">UILabel</string>
+						<string key="switchCompression">UISwitch</string>
+						<string key="switchPageMode">UISwitch</string>
+						<string key="uiscrollview_main">UIScrollView</string>
+						<string key="uitextfield_textsize">UITextField</string>
+						<string key="uitextview_texttoprint">UITextView</string>
+						<string key="uiview_block">UIView</string>
+						<string key="uiview_main">UIView</string>
+					</dictionary>
+					<dictionary class="NSMutableDictionary" key="toOneOutletInfosByName">
+						<object class="IBToOneOutletInfo" key="buttonBack">
+							<string key="name">buttonBack</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonFont">
+							<string key="name">buttonFont</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonFontStyle">
+							<string key="name">buttonFontStyle</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonHelp">
+							<string key="name">buttonHelp</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrint">
+							<string key="name">buttonPrint</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="buttonPrinterSize">
+							<string key="name">buttonPrinterSize</string>
+							<string key="candidateClassName">UIButton</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="labelCompression">
+							<string key="name">labelCompression</string>
+							<string key="candidateClassName">UILabel</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="labelPageMode">
+							<string key="name">labelPageMode</string>
+							<string key="candidateClassName">UILabel</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="switchCompression">
+							<string key="name">switchCompression</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="switchPageMode">
+							<string key="name">switchPageMode</string>
+							<string key="candidateClassName">UISwitch</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiscrollview_main">
+							<string key="name">uiscrollview_main</string>
+							<string key="candidateClassName">UIScrollView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextfield_textsize">
+							<string key="name">uitextfield_textsize</string>
+							<string key="candidateClassName">UITextField</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uitextview_texttoprint">
+							<string key="name">uitextview_texttoprint</string>
+							<string key="candidateClassName">UITextView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_block">
+							<string key="name">uiview_block</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+						<object class="IBToOneOutletInfo" key="uiview_main">
+							<string key="name">uiview_main</string>
+							<string key="candidateClassName">UIView</string>
+						</object>
+					</dictionary>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBProjectSource</string>
+						<string key="minorKey">./Classes/rasterPrinting.h</string>
+					</object>
+				</object>
+			</array>
+		</object>
+		<int key="IBDocument.localizationMode">0</int>
+		<string key="IBDocument.TargetRuntimeIdentifier">IBCocoaTouchFramework</string>
+		<bool key="IBDocument.previouslyAttemptedUpgradeToXcode5">YES</bool>
+		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDependencyDefaults">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.iPhoneOS</string>
+			<real value="1072" key="NS.object.0"/>
+		</object>
+		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDevelopmentDependencies">
+			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.InterfaceBuilder3</string>
+			<integer value="4600" key="NS.object.0"/>
+		</object>
+		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
+		<int key="IBDocument.defaultPropertyAccessControl">3</int>
+		<string key="IBCocoaTouchPluginVersion">3742</string>
+	</data>
+</archive>

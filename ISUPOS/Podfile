@@ -1,0 +1,19 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+platform :ios, '7.1'
+
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://bitbucket.org/mpymnt/io.mpymnt.repo.pods.git'
+
+
+target 'ISUPOS' do
+    pod 'SplunkMint'
+    pod 'CocoaLumberjack', '~> 2.0'
+    pod 'AFNetworking', '~> 2.5'
+    pod 'payworks', '2.13.0'
+end
+
+target 'ISUPOSTests' do
+    
+end

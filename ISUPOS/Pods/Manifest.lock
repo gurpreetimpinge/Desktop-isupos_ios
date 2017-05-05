@@ -1,0 +1,78 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - CocoaLumberjack (2.0.3):
+    - CocoaLumberjack/Default (= 2.0.3)
+    - CocoaLumberjack/Extensions (= 2.0.3)
+  - CocoaLumberjack/Core (2.0.3)
+  - CocoaLumberjack/Default (2.0.3):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.3):
+    - CocoaLumberjack/Default
+  - payworks (2.13.0):
+    - payworks/mpos (= 2.13.0)
+  - payworks/mpos (2.13.0):
+    - payworks/mpos/accessories (= 2.13.0)
+    - payworks/mpos/comlinks (= 2.13.0)
+    - payworks/mpos/core (= 2.13.0)
+  - payworks/mpos/accessories (2.13.0):
+    - payworks/mpos/accessories/miura (= 2.13.0)
+    - payworks/mpos/accessories/sewoo (= 2.13.0)
+    - payworks/mpos/accessories/verifone-e105 (= 2.13.0)
+  - payworks/mpos/accessories/miura (2.13.0):
+    - payworks/mpos/comlinks/externalaccessory
+    - payworks/mpos/comlinks/tcp
+    - payworks/mpos/core
+  - payworks/mpos/accessories/sewoo (2.13.0):
+    - payworks/mpos/core
+  - payworks/mpos/accessories/verifone-e105 (2.13.0):
+    - payworks/mpos/comlinks/verifone
+    - payworks/mpos/core
+  - payworks/mpos/comlinks (2.13.0):
+    - payworks/mpos/comlinks/externalaccessory (= 2.13.0)
+    - payworks/mpos/comlinks/tcp (= 2.13.0)
+    - payworks/mpos/comlinks/verifone (= 2.13.0)
+  - payworks/mpos/comlinks/externalaccessory (2.13.0):
+    - payworks/mpos/core
+  - payworks/mpos/comlinks/tcp (2.13.0):
+    - payworks/mpos/core
+  - payworks/mpos/comlinks/verifone (2.13.0):
+    - payworks/mpos/core
+  - payworks/mpos/core (2.13.0):
+    - CocoaLumberjack (~> 2.0.0)
+  - SplunkMint (4.3.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5)
+  - CocoaLumberjack (~> 2.0)
+  - payworks (= 2.13.0)
+  - SplunkMint
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  CocoaLumberjack: f58d8a19629f4d8379ae14bb3534def24161430e
+  payworks: dc8e368cf6833c884aac6924a449b553a614cc2b
+  SplunkMint: 0247dcea1c7e95a4d1267e1093ac20218970ef0b
+
+PODFILE CHECKSUM: 427d3c902e6107cd10ec87ddb53c9ad42a0ebeb9
+
+COCOAPODS: 1.0.1
